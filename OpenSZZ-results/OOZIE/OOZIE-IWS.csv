@@ -5022,6 +5022,28 @@ e13912b3246f2920c9065a42cf30c618dbb4a9e0;2012-10-02T20:42:29+0300;release-log.tx
 61a3f44dd5de2a29dea034d99185d3739e62bbd1;2012-09-29T02:45:32+0300;client/pom.xml;2a102670c38636dc652b4089a33829bd739ff64c;2011-11-30T01:45:14+0200;OOZIE-1004;
 61a3f44dd5de2a29dea034d99185d3739e62bbd1;2012-09-29T02:45:32+0300;pom.xml;0570455f4c582f4efe4e10ecf9dcd142c2f4b259;2011-11-30T01:11:37+0200;OOZIE-1004;
 61a3f44dd5de2a29dea034d99185d3739e62bbd1;2012-09-29T02:45:32+0300;release-log.txt;;;OOZIE-1004;Ignored file type
+adf2529546a52dfd748d16d6823feacf4e7dee29;2012-09-29T02:04:10+0300;builds/runHudsonCIBuild.sh;8c9d375d3c0e1e43123a106c69b7ab5e67879718;2011-09-02T03:35:53+0300;OOZIE-1000;
+adf2529546a52dfd748d16d6823feacf4e7dee29;2012-09-29T02:04:10+0300;core/src/test/java/org/apache/oozie/command/coord/TestCoordActionMaterializeCommand.java;35f3dd01cc5b191f2e0980297807237568920b20;2011-09-02T03:32:23+0300;OOZIE-1000;
+adf2529546a52dfd748d16d6823feacf4e7dee29;2012-09-29T02:04:10+0300;core/src/test/java/org/apache/oozie/command/coord/TestCoordActionStartXCommand.java;970f26ae721ff47997818896cd317c120c31a90a;2011-09-02T03:36:02+0300;OOZIE-1000;
+adf2529546a52dfd748d16d6823feacf4e7dee29;2012-09-29T02:04:10+0300;core/src/test/java/org/apache/oozie/command/coord/TestCoordSubmitXCommand.java;9b8d7a46f8a5e242b7ab5c4c91a57e897d5d8884;2011-09-02T03:35:48+0300;OOZIE-1000;
+adf2529546a52dfd748d16d6823feacf4e7dee29;2012-09-29T02:04:10+0300;core/src/test/java/org/apache/oozie/service/TestProxyUserService.java;ee782c06bc0e1f6b30ab70fb83bd496df1861340;2012-01-18T23:25:05+0200;OOZIE-1000;
+adf2529546a52dfd748d16d6823feacf4e7dee29;2012-09-29T02:04:10+0300;core/src/test/java/org/apache/oozie/service/TestSchemaService.java;9501311af7a50904c7eabee1fa1a9053c17234ac;2011-09-02T03:31:55+0300;OOZIE-1000;
+adf2529546a52dfd748d16d6823feacf4e7dee29;2012-09-29T02:04:10+0300;core/src/test/java/org/apache/oozie/test/XDataTestCase.java;73721f723e31379b9b9bd2a963db8be3a13f2a7b;2012-05-02T10:19:11+0300;OOZIE-1000;
+adf2529546a52dfd748d16d6823feacf4e7dee29;2012-09-29T02:04:10+0300;core/src/test/resources/coord-action-start-escape-strings.xml;8f41e0069391847576ba249c27f39ae473dcbe6e;2011-09-02T03:40:56+0300;OOZIE-1000;
+adf2529546a52dfd748d16d6823feacf4e7dee29;2012-09-29T02:04:10+0300;core/src/test/resources/coord-matd-job.xml;7836443875a7fa7f3e71b55178a1b5e9d53d3976;2011-09-02T03:35:24+0300;OOZIE-1000;
+adf2529546a52dfd748d16d6823feacf4e7dee29;2012-09-29T02:04:10+0300;core/src/test/resources/derby-oozie-site.xml;63a5d994ce4d7cbb1d674e77010e9fd62decf32b;2011-11-15T11:56:24+0200;OOZIE-1000;
+adf2529546a52dfd748d16d6823feacf4e7dee29;2012-09-29T02:04:10+0300;core/src/test/resources/hsqldb-oozie-site.xml;63a5d994ce4d7cbb1d674e77010e9fd62decf32b;2011-11-15T11:56:24+0200;OOZIE-1000;
+adf2529546a52dfd748d16d6823feacf4e7dee29;2012-09-29T02:04:10+0300;core/src/test/resources/oracle-oozie-site.xml;63a5d994ce4d7cbb1d674e77010e9fd62decf32b;2011-11-15T11:56:24+0200;OOZIE-1000;
+adf2529546a52dfd748d16d6823feacf4e7dee29;2012-09-29T02:04:10+0300;core/src/test/resources/postgres-oozie-site.xml;63a5d994ce4d7cbb1d674e77010e9fd62decf32b;2011-11-15T11:56:24+0200;OOZIE-1000;
+adf2529546a52dfd748d16d6823feacf4e7dee29;2012-09-29T02:04:10+0300;docs/src/site/twiki/CoordinatorFunctionalSpec.twiki;a39fa36d3cb79046d4565822f90940ad20073283;2011-09-02T03:37:37+0300;OOZIE-1000;
+adf2529546a52dfd748d16d6823feacf4e7dee29;2012-09-29T02:04:10+0300;docs/src/site/twiki/ENG_Building.twiki;35f3dd01cc5b191f2e0980297807237568920b20;2011-09-02T03:32:23+0300;OOZIE-1000;
+adf2529546a52dfd748d16d6823feacf4e7dee29;2012-09-29T02:04:10+0300;docs/src/site/twiki/index.twiki;35f3dd01cc5b191f2e0980297807237568920b20;2011-09-02T03:32:23+0300;OOZIE-1000;
+adf2529546a52dfd748d16d6823feacf4e7dee29;2012-09-29T02:04:10+0300;examples/src/test/resources/derby-oozie-site.xml;585a0d6e02f01502ed9e2bc9ad81fdcbfa0c3384;2011-12-10T04:40:59+0200;OOZIE-1000;
+adf2529546a52dfd748d16d6823feacf4e7dee29;2012-09-29T02:04:10+0300;examples/src/test/resources/hsqldb-oozie-site.xml;585a0d6e02f01502ed9e2bc9ad81fdcbfa0c3384;2011-12-10T04:40:59+0200;OOZIE-1000;
+adf2529546a52dfd748d16d6823feacf4e7dee29;2012-09-29T02:04:10+0300;examples/src/test/resources/oracle-oozie-site.xml;585a0d6e02f01502ed9e2bc9ad81fdcbfa0c3384;2011-12-10T04:40:59+0200;OOZIE-1000;
+adf2529546a52dfd748d16d6823feacf4e7dee29;2012-09-29T02:04:10+0300;minitest/pom.xml;135dcce0716eb02db9b012fe6c4d88721c527b7f;2011-10-26T22:28:42+0300;OOZIE-1000;
+adf2529546a52dfd748d16d6823feacf4e7dee29;2012-09-29T02:04:10+0300;minitest/src/test/resources/oozie-log4j.properties;135dcce0716eb02db9b012fe6c4d88721c527b7f;2011-10-26T22:28:42+0300;OOZIE-1000;
+adf2529546a52dfd748d16d6823feacf4e7dee29;2012-09-29T02:04:10+0300;release-log.txt;;;OOZIE-1000;Ignored file type
 036fdaa08d8272dfe0c6ee65cc652cdebb65d872;2012-09-29T02:01:19+0300;core/src/main/java/org/apache/oozie/util/XLogStreamer.java;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-999;
 036fdaa08d8272dfe0c6ee65cc652cdebb65d872;2012-09-29T02:01:19+0300;core/src/test/java/org/apache/oozie/service/TestXLogService.java;cb34197c4e83df29f441a4baec27e4208648de64;2012-07-14T03:23:31+0300;OOZIE-999;
 036fdaa08d8272dfe0c6ee65cc652cdebb65d872;2012-09-29T02:01:19+0300;core/src/test/java/org/apache/oozie/util/TestLogStreamer.java;01c8e4ba08627270a9e2777a04cc9bcbb54bb978;2012-06-18T23:38:14+0300;OOZIE-999;
@@ -6217,6 +6239,16 @@ a81f6bb9a1f5a47963c4d5ae0700868252db1909;2011-11-11T01:56:07+0200;release-log.tx
 893fd2afec02caabcd76bf686dae42cc7216664f;2011-11-11T01:43:27+0200;release-log.txt;;;OOZIE-590;Ignored file type
 f794e21cc20087b1be2e5f6ac695d4813284bbc5;2011-11-11T01:33:45+0200;core/src/main/java/org/apache/oozie/util/XLogStreamer.java;05c4b6afba8f00dbbdb86c089122ad9ddd6465dc;2011-10-08T03:20:20+0300;OOZIE-590;
 f794e21cc20087b1be2e5f6ac695d4813284bbc5;2011-11-11T01:33:45+0200;release-log.txt;;;OOZIE-590;Ignored file type
+135dcce0716eb02db9b012fe6c4d88721c527b7f;2011-10-26T22:28:42+0300;core/pom.xml;;;OOZIE-38;No changed lines, only additions
+135dcce0716eb02db9b012fe6c4d88721c527b7f;2011-10-26T22:28:42+0300;core/src/test/java/org/apache/oozie/test/MiniOozieTestCase.java;;;OOZIE-38;No changed lines, only additions
+135dcce0716eb02db9b012fe6c4d88721c527b7f;2011-10-26T22:28:42+0300;docs/src/site/twiki/ENG_MiniOozie.twiki;;;OOZIE-38;No changed lines, only additions
+135dcce0716eb02db9b012fe6c4d88721c527b7f;2011-10-26T22:28:42+0300;docs/src/site/twiki/index.twiki;;;OOZIE-38;No changed lines, only additions
+135dcce0716eb02db9b012fe6c4d88721c527b7f;2011-10-26T22:28:42+0300;minitest/pom.xml;;;OOZIE-38;No changed lines, only additions
+135dcce0716eb02db9b012fe6c4d88721c527b7f;2011-10-26T22:28:42+0300;minitest/src/test/java/org/apache/oozie/test/WorkflowTest.java;;;OOZIE-38;No changed lines, only additions
+135dcce0716eb02db9b012fe6c4d88721c527b7f;2011-10-26T22:28:42+0300;minitest/src/test/resources/oozie-log4j.properties;;;OOZIE-38;No changed lines, only additions
+135dcce0716eb02db9b012fe6c4d88721c527b7f;2011-10-26T22:28:42+0300;minitest/src/test/resources/wf-test.xml;;;OOZIE-38;No changed lines, only additions
+135dcce0716eb02db9b012fe6c4d88721c527b7f;2011-10-26T22:28:42+0300;release-log.txt;;;OOZIE-38;Ignored file type
+135dcce0716eb02db9b012fe6c4d88721c527b7f;2011-10-26T22:28:42+0300;src/main/assemblies/distro.xml;;;OOZIE-38;No changed lines, only additions
 d3011b12da93a213814339787b14e684a51511c6;2011-10-21T22:05:20+0300;core/src/main/java/org/apache/oozie/CoordinatorEngine.java;8dde127583ca4bea0434b591d87a993b887a39a4;2011-10-18T01:33:20+0300;OOZIE-585;
 d3011b12da93a213814339787b14e684a51511c6;2011-10-21T22:05:20+0300;release-log.txt;;;OOZIE-585;Ignored file type
 39360c192037a029824cd2d2e50dce7b18328e1c;2011-10-18T01:37:19+0300;core/src/main/java/org/apache/oozie/coord/CoordELFunctions.java;;;OOZIE-573;
@@ -6231,10 +6263,13 @@ c0b1b86701810b6cacec86414607fceec091ead5;2011-10-12T05:23:28+0300;pom.xml;836790
 c0b1b86701810b6cacec86414607fceec091ead5;2011-10-12T05:23:28+0300;release-log.txt;;;OOZIE-579;Ignored file type
 c0b1b86701810b6cacec86414607fceec091ead5;2011-10-12T05:23:28+0300;sharelib/pom.xml;9881269bf0f00580d171780a64710b4bff50b8c5;2011-09-02T03:42:07+0300;OOZIE-579;
 c0b1b86701810b6cacec86414607fceec091ead5;2011-10-12T05:23:28+0300;webapp/pom.xml;9881269bf0f00580d171780a64710b4bff50b8c5;2011-09-02T03:42:07+0300;OOZIE-579;
+65ce7ee1d8f648b539073f057c3da5e3cbcebed1;2011-10-08T01:52:35+0300;release-log.txt;;;OOZIE-41;Ignored file type
+65ce7ee1d8f648b539073f057c3da5e3cbcebed1;2011-10-08T01:52:35+0300;webapp/src/main/webapp/oozie-console.js;d3b519523fe5efb2bcfd505f8b4f7e67a8c5e1d8;2011-09-02T03:41:35+0300;OOZIE-41;
 e5a02a52508748d806e40873b77c65fbf19872d6;2011-10-07T03:16:57+0300;client/src/main/java/org/apache/oozie/cli/OozieCLI.java;9501311af7a50904c7eabee1fa1a9053c17234ac;2011-09-02T03:31:55+0300;OOZIE-572;
 e5a02a52508748d806e40873b77c65fbf19872d6;2011-10-07T03:16:57+0300;release-log.txt;;;OOZIE-572;Ignored file type
 6fc6461693818153fdffabadd10e4a8947307163;2011-10-06T23:37:53+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-568;No changed lines, only additions
 6fc6461693818153fdffabadd10e4a8947307163;2011-10-06T23:37:53+0300;release-log.txt;;;OOZIE-568;Ignored file type
+2209133b7e255f5278311d4d2b9d63ab4391f629;2011-10-06T23:34:23+0300;docs/src/site/twiki/DG_Examples.twiki;;;OOZIE-39;No changed lines, only additions
 e224373d05b5454b791dc2f1fc5b2d3d42a0b398;2011-10-06T23:30:06+0300;core/src/main/resources/META-INF/persistence.xml;;;OOZIE-40;No changed lines, only additions
 011cb9c54012db759740ed7d0d48bb1e3d775dca;2011-10-06T23:28:32+0300;core/src/main/java/org/apache/oozie/coord/CoordELFunctions.java;;;OOZIE-573;No changed lines, only additions
 011cb9c54012db759740ed7d0d48bb1e3d775dca;2011-10-06T23:28:32+0300;release-log.txt;;;OOZIE-573;Ignored file type
@@ -6247,6 +6282,8 @@ eb4056db3b51f27e7179e2bb7224de34db2eff0a;2011-10-06T23:17:15+0300;release-log.tx
 0151101cbe5fe88c29511ac93ac00b14ab8f3c79;2011-10-06T23:10:17+0300;release-log.txt;;;OOZIE-569;Ignored file type
 b145c015f36a06f2ac24ba568c47ac5789351972;2011-10-06T23:07:08+0300;distro/src/main/tomcat/ROOT/WEB-INF/web.xml;4a656d4acfebe8d3a6d6360d7d8f0841a3730216;2011-09-14T02:15:27+0300;OOZIE-574;
 b145c015f36a06f2ac24ba568c47ac5789351972;2011-10-06T23:07:08+0300;distro/src/main/tomcat/server.xml;4a656d4acfebe8d3a6d6360d7d8f0841a3730216;2011-09-14T02:15:27+0300;OOZIE-574;
+aeafe1d80992173d8ee0f5e9a4148fbb7f43908a;2011-10-06T22:57:39+0300;core/src/main/java/org/apache/oozie/command/XCommand.java;2d55e8183c36ea496bf9b44ce33fb38e5690e6af;2011-09-02T03:37:40+0300;OOZIE-25;
+aeafe1d80992173d8ee0f5e9a4148fbb7f43908a;2011-10-06T22:57:39+0300;release-log.txt;;;OOZIE-25;Ignored file type
 f0538a33f861e67b84d8e7090fff7a003bec51b0;2011-10-05T05:06:36+0300;release-log.txt;;;OOZIE-567;Ignored file type
 4b0e585a84e390020a967cfaa2bb47971ceba0a1;2011-10-05T04:34:23+0300;core/src/main/java/org/apache/oozie/service/WorkflowAppService.java;;;OOZIE-564;No changed lines, only additions
 4b0e585a84e390020a967cfaa2bb47971ceba0a1;2011-10-05T04:34:23+0300;core/src/test/java/org/apache/oozie/action/hadoop/PigTestCase.java;;;OOZIE-564;No changed lines, only additions
@@ -6257,10 +6294,78 @@ f0538a33f861e67b84d8e7090fff7a003bec51b0;2011-10-05T05:06:36+0300;release-log.tx
 2fb02b02a370f4eed88c693d8ee8bd57b57cdf80;2011-10-05T04:11:24+0300;pom.xml;;;OOZIE-564;No changed lines, only additions
 2fb02b02a370f4eed88c693d8ee8bd57b57cdf80;2011-10-05T04:11:24+0300;release-log.txt;;;OOZIE-564;Ignored file type
 2fb02b02a370f4eed88c693d8ee8bd57b57cdf80;2011-10-05T04:11:24+0300;sharelib/pom.xml;;;OOZIE-564;No changed lines, only additions
+74c42bbad1b02c90e8fcb1a836f93c5df87aca4a;2011-09-02T03:42:10+0300;client/src/main/java/org/apache/oozie/cli/OozieCLI.java;3a470c2de80f8837ddceee166541920d874159e1;2011-09-02T03:41:47+0300;OOZIE-37;
+74c42bbad1b02c90e8fcb1a836f93c5df87aca4a;2011-09-02T03:42:10+0300;docs/src/site/twiki/DG_CommandLineTool.twiki;39df646bcd991e1bdd588d9ac16843bca4873478;2011-09-02T03:34:51+0300;OOZIE-37;
+74c42bbad1b02c90e8fcb1a836f93c5df87aca4a;2011-09-02T03:42:10+0300;release-log.txt;;;OOZIE-37;Ignored file type
+9881269bf0f00580d171780a64710b4bff50b8c5;2011-09-02T03:42:07+0300;client/pom.xml;2f5d07f99fc6c400747c34ff5d64cddc9e4ef340;2011-09-02T03:40:46+0300;OOZIE-36;
+9881269bf0f00580d171780a64710b4bff50b8c5;2011-09-02T03:42:07+0300;core/pom.xml;2f5d07f99fc6c400747c34ff5d64cddc9e4ef340;2011-09-02T03:40:46+0300;OOZIE-36;
+9881269bf0f00580d171780a64710b4bff50b8c5;2011-09-02T03:42:07+0300;distro/pom.xml;2f5d07f99fc6c400747c34ff5d64cddc9e4ef340;2011-09-02T03:40:46+0300;OOZIE-36;
+9881269bf0f00580d171780a64710b4bff50b8c5;2011-09-02T03:42:07+0300;docs/pom.xml;2f5d07f99fc6c400747c34ff5d64cddc9e4ef340;2011-09-02T03:40:46+0300;OOZIE-36;
+9881269bf0f00580d171780a64710b4bff50b8c5;2011-09-02T03:42:07+0300;examples/pom.xml;2f5d07f99fc6c400747c34ff5d64cddc9e4ef340;2011-09-02T03:40:46+0300;OOZIE-36;
+9881269bf0f00580d171780a64710b4bff50b8c5;2011-09-02T03:42:07+0300;pom.xml;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-36;
+9881269bf0f00580d171780a64710b4bff50b8c5;2011-09-02T03:42:07+0300;sharelib/pom.xml;2f5d07f99fc6c400747c34ff5d64cddc9e4ef340;2011-09-02T03:40:46+0300;OOZIE-36;
+9881269bf0f00580d171780a64710b4bff50b8c5;2011-09-02T03:42:07+0300;webapp/pom.xml;2f5d07f99fc6c400747c34ff5d64cddc9e4ef340;2011-09-02T03:40:46+0300;OOZIE-36;
+72f93f7c9a4c23309c5842fc16b167130afb2c1f;2011-09-02T03:42:06+0300;core/src/main/resources/oozie-default.xml;;;OOZIE-35;No changed lines, only additions
+72f93f7c9a4c23309c5842fc16b167130afb2c1f;2011-09-02T03:42:06+0300;docs/src/site/twiki/WorkflowFunctionalSpec.twiki;afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;OOZIE-35;
+72f93f7c9a4c23309c5842fc16b167130afb2c1f;2011-09-02T03:42:06+0300;release-log.txt;;;OOZIE-35;Ignored file type
+54bcb0e60c0acb563de84d966bdc87457ab929a1;2011-09-02T03:42:01+0300;core/pom.xml;;;OOZIE-22;No changed lines, only additions
+54bcb0e60c0acb563de84d966bdc87457ab929a1;2011-09-02T03:42:01+0300;core/src/main/resources/META-INF/oozie-postgresql-orm.xml;;;OOZIE-22;No changed lines, only additions
+54bcb0e60c0acb563de84d966bdc87457ab929a1;2011-09-02T03:42:01+0300;core/src/main/resources/META-INF/persistence.xml;;;OOZIE-22;No changed lines, only additions
+54bcb0e60c0acb563de84d966bdc87457ab929a1;2011-09-02T03:42:01+0300;core/src/test/resources/postgresql-oozie-site.xml;;;OOZIE-22;No changed lines, only additions
+54bcb0e60c0acb563de84d966bdc87457ab929a1;2011-09-02T03:42:01+0300;docs/src/site/twiki/AG_Install.twiki;6db49e13ed5e9580040a05d9db681436429a790e;2011-09-02T03:34:27+0300;OOZIE-22;
+54bcb0e60c0acb563de84d966bdc87457ab929a1;2011-09-02T03:42:01+0300;docs/src/site/twiki/ENG_Building.twiki;52a635cb9be3e37eb6f8158a78a48cd62aef75ca;2011-09-02T03:35:17+0300;OOZIE-22;
+54bcb0e60c0acb563de84d966bdc87457ab929a1;2011-09-02T03:42:01+0300;pom.xml;;;OOZIE-22;No changed lines, only additions
+54bcb0e60c0acb563de84d966bdc87457ab929a1;2011-09-02T03:42:01+0300;release-log.txt;;;OOZIE-22;Ignored file type
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;client/src/main/java/org/apache/oozie/client/WorkflowAction.java;;;OOZIE-10;No changed lines, only additions
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;client/src/main/resources/oozie-workflow-0.3.xsd;;;OOZIE-10;No changed lines, only additions
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/ErrorCode.java;d2a1a2d2259918e8e8a9278f054532d794d69d99;2011-09-02T03:36:43+0300;OOZIE-10;
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/WorkflowActionBean.java;;;OOZIE-10;No changed lines, only additions
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-10;
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/client/rest/JsonWorkflowAction.java;;;OOZIE-10;No changed lines, only additions
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/command/wf/ActionCheckXCommand.java;80b0a19373685d9f7273cc444a917daf2ae3f60d;2011-09-02T03:35:43+0300;OOZIE-10;
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/command/wf/ActionEndXCommand.java;c9d99f6b46b2311a441e8be9634b63156d7a3ccb;2011-09-02T03:35:40+0300;OOZIE-10;
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/command/wf/ActionKillXCommand.java;c9d99f6b46b2311a441e8be9634b63156d7a3ccb;2011-09-02T03:35:40+0300;OOZIE-10;
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/command/wf/ActionStartXCommand.java;d2a1a2d2259918e8e8a9278f054532d794d69d99;2011-09-02T03:36:43+0300;OOZIE-10;
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/command/wf/ActionXCommand.java;c9d99f6b46b2311a441e8be9634b63156d7a3ccb;2011-09-02T03:35:40+0300;OOZIE-10;
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/command/wf/SignalXCommand.java;b00dbec2e60647e931ca18626edad62be08af554;2011-09-02T03:41:21+0300;OOZIE-10;
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/executor/jpa/WorkflowActionGetJPAExecutor.java;;;OOZIE-10;No changed lines, only additions
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/executor/jpa/WorkflowActionsGetForJobJPAExecutor.java;;;OOZIE-10;No changed lines, only additions
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/executor/jpa/WorkflowActionsRunningGetJPAExecutor.java;;;OOZIE-10;No changed lines, only additions
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/executor/jpa/WorkflowJobGetActionsJPAExecutor.java;;;OOZIE-10;No changed lines, only additions
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/service/LiteWorkflowStoreService.java;8ace8e29c05bedb45a9d38b77fce042d18283120;2011-09-02T03:37:27+0300;OOZIE-10;
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/service/RecoveryService.java;;;OOZIE-10;No changed lines, only additions
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/service/SchemaService.java;8ace8e29c05bedb45a9d38b77fce042d18283120;2011-09-02T03:37:27+0300;OOZIE-10;
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/store/WorkflowStore.java;;;OOZIE-10;No changed lines, only additions
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/workflow/lite/ActionNodeDef.java;8ace8e29c05bedb45a9d38b77fce042d18283120;2011-09-02T03:37:27+0300;OOZIE-10;
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/workflow/lite/LiteWorkflowAppParser.java;8e4f3f6112092ee19f6c432f8e0c7a86c5665f61;2011-09-02T03:38:41+0300;OOZIE-10;
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/workflow/lite/NodeDef.java;8ace8e29c05bedb45a9d38b77fce042d18283120;2011-09-02T03:37:27+0300;OOZIE-10;
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/resources/oozie-default.xml;9501311af7a50904c7eabee1fa1a9053c17234ac;2011-09-02T03:31:55+0300;OOZIE-10;
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/test/java/org/apache/oozie/command/wf/TestActionCheckXCommand.java;80b0a19373685d9f7273cc444a917daf2ae3f60d;2011-09-02T03:35:43+0300;OOZIE-10;
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/test/java/org/apache/oozie/command/wf/TestActionErrors.java;;;OOZIE-10;No changed lines, only additions
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/test/java/org/apache/oozie/command/wf/TestActionStartXCommand.java;80b0a19373685d9f7273cc444a917daf2ae3f60d;2011-09-02T03:35:43+0300;OOZIE-10;
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/test/java/org/apache/oozie/command/wf/TestWorkflowKillXCommand.java;;;OOZIE-10;No changed lines, only additions
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/test/java/org/apache/oozie/service/TestRecoveryService.java;;;OOZIE-10;No changed lines, only additions
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/test/resources/wf-ext-schema-valid-user-retry.xml;;;OOZIE-10;No changed lines, only additions
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;docs/src/site/twiki/WorkflowFunctionalSpec.twiki;9501311af7a50904c7eabee1fa1a9053c17234ac;2011-09-02T03:31:55+0300;OOZIE-10;
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;release-log.txt;;;OOZIE-10;Ignored file type
+64881a73b75909e960ca4db9ab2282e9ce99f8ad;2011-09-02T03:41:49+0300;docs/src/site/twiki/WorkflowFunctionalSpec.twiki;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-19;
+3946deba63ff845e8ae04cc4a881ddf9f35c422c;2011-09-02T03:41:44+0300;release-log.txt;;;OOZIE-18;Ignored file type
+3946deba63ff845e8ae04cc4a881ddf9f35c422c;2011-09-02T03:41:44+0300;webapp/src/main/webapp/oozie-console.js;9501311af7a50904c7eabee1fa1a9053c17234ac;2011-09-02T03:31:55+0300;OOZIE-18;
+4af67ff3ab6aa0f9055d5aa8a6299887df1fe755;2011-09-02T03:41:42+0300;release-log.txt;;;OOZIE-17;Ignored file type
+4af67ff3ab6aa0f9055d5aa8a6299887df1fe755;2011-09-02T03:41:42+0300;webapp/src/main/webapp/oozie-console.js;d3b519523fe5efb2bcfd505f8b4f7e67a8c5e1d8;2011-09-02T03:41:35+0300;OOZIE-17;
 0f4213951f3ad13f7604b7c69862c3a20ee5a23d;2011-09-02T03:41:41+0300;docs/src/site/twiki/WorkflowFunctionalSpec.twiki;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-133;
+b7993b7577677878405f63d46cea67522776fde3;2011-09-02T03:41:40+0300;client/src/main/java/org/apache/oozie/cli/OozieCLI.java;;;OOZIE-11;No changed lines, only additions
+b7993b7577677878405f63d46cea67522776fde3;2011-09-02T03:41:40+0300;client/src/main/resources/distcp-action-0.1.xsd;;;OOZIE-11;No changed lines, only additions
+b7993b7577677878405f63d46cea67522776fde3;2011-09-02T03:41:40+0300;core/src/main/java/org/apache/oozie/action/hadoop/DistcpActionExecutor.java;;;OOZIE-11;No changed lines, only additions
+b7993b7577677878405f63d46cea67522776fde3;2011-09-02T03:41:40+0300;core/src/main/resources/oozie-default.xml;;;OOZIE-11;No changed lines, only additions
+b7993b7577677878405f63d46cea67522776fde3;2011-09-02T03:41:40+0300;core/src/test/java/org/apache/oozie/action/hadoop/TestDistCpActionExecutor.java;;;OOZIE-11;No changed lines, only additions
+b7993b7577677878405f63d46cea67522776fde3;2011-09-02T03:41:40+0300;core/src/test/java/org/apache/oozie/action/hadoop/TestJavaActionExecutor.java;8ace8e29c05bedb45a9d38b77fce042d18283120;2011-09-02T03:37:27+0300;OOZIE-11;
+b7993b7577677878405f63d46cea67522776fde3;2011-09-02T03:41:40+0300;release-log.txt;;;OOZIE-11;Ignored file type
 c7680cd54f4a56255020e74ab957a9d1ff078ae1;2011-09-02T03:41:36+0300;core/src/main/java/org/apache/oozie/action/hadoop/FsActionExecutor.java;9501311af7a50904c7eabee1fa1a9053c17234ac;2011-09-02T03:31:55+0300;OOZIE-133;
 c7680cd54f4a56255020e74ab957a9d1ff078ae1;2011-09-02T03:41:36+0300;core/src/test/java/org/apache/oozie/action/hadoop/TestFsActionExecutor.java;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-133;
 c7680cd54f4a56255020e74ab957a9d1ff078ae1;2011-09-02T03:41:36+0300;release-log.txt;;;OOZIE-133;Ignored file type
+d3b519523fe5efb2bcfd505f8b4f7e67a8c5e1d8;2011-09-02T03:41:35+0300;release-log.txt;;;OOZIE-6;Ignored file type
+d3b519523fe5efb2bcfd505f8b4f7e67a8c5e1d8;2011-09-02T03:41:35+0300;webapp/src/main/webapp/oozie-console.js;e379b4a3a6aaff0b7285fdbc9313fb2f4368b72c;2011-09-02T03:36:38+0300;OOZIE-6;
 384fc8cbbb99a8b33e3574a09b25b9107001650f;2011-09-02T03:41:30+0300;core/src/main/java/org/apache/oozie/command/coord/CoordSubmitXCommand.java;;;OOZIE-119;No changed lines, only additions
 384fc8cbbb99a8b33e3574a09b25b9107001650f;2011-09-02T03:41:30+0300;docs/src/site/twiki/CoordinatorFunctionalSpec.twiki;9501311af7a50904c7eabee1fa1a9053c17234ac;2011-09-02T03:31:55+0300;OOZIE-119;
 384fc8cbbb99a8b33e3574a09b25b9107001650f;2011-09-02T03:41:30+0300;release-log.txt;;;OOZIE-119;Ignored file type
@@ -6446,6 +6551,10 @@ af2d90802b330f5c273cfa79c8ebc86dd11e0bf7;2011-09-02T03:39:58+0300;core/src/main/
 7bc57c0ae498a937be3156fdfb380fe4f402b952;2011-09-02T03:39:56+0300;core/src/test/java/org/apache/oozie/command/bundle/TestBundleRerunXCommand.java;eee8d3c152dffacd5790df7bc34f86f5ed1f4b27;2011-09-02T03:38:46+0300;OOZIE-66;
 1e1e3da7594def1e148fa264f60987f0d6a2b087;2011-09-02T03:39:52+0300;client/src/main/java/org/apache/oozie/cli/OozieCLI.java;;;OOZIE-62;No changed lines, only additions
 1e1e3da7594def1e148fa264f60987f0d6a2b087;2011-09-02T03:39:52+0300;release-log.txt;;;OOZIE-62;Ignored file type
+977c8bcf26181186de3f7cad4217cfa78a324ab4;2011-09-02T03:39:49+0300;core/src/main/java/org/apache/oozie/action/hadoop/LauncherMapper.java;;;OOZIE-34;No changed lines, only additions
+977c8bcf26181186de3f7cad4217cfa78a324ab4;2011-09-02T03:39:49+0300;core/src/test/java/org/apache/oozie/action/hadoop/LauncherMainTester.java;;;OOZIE-34;No changed lines, only additions
+977c8bcf26181186de3f7cad4217cfa78a324ab4;2011-09-02T03:39:49+0300;core/src/test/java/org/apache/oozie/action/hadoop/TestLauncher.java;;;OOZIE-34;No changed lines, only additions
+977c8bcf26181186de3f7cad4217cfa78a324ab4;2011-09-02T03:39:49+0300;release-log.txt;;;OOZIE-34;Ignored file type
 581f95628368f60ff6c051da1ec198b44dd6b1a1;2011-09-02T03:39:45+0300;core/src/main/java/org/apache/oozie/action/hadoop/LauncherMain.java;;;OOZIE-15;No changed lines, only additions
 581f95628368f60ff6c051da1ec198b44dd6b1a1;2011-09-02T03:39:45+0300;core/src/main/java/org/apache/oozie/action/hadoop/MapReduceMain.java;;;OOZIE-15;
 581f95628368f60ff6c051da1ec198b44dd6b1a1;2011-09-02T03:39:45+0300;core/src/main/java/org/apache/oozie/action/hadoop/PigMain.java;;;OOZIE-15;
@@ -6462,6 +6571,11 @@ af2d90802b330f5c273cfa79c8ebc86dd11e0bf7;2011-09-02T03:39:58+0300;core/src/main/
 0fadafeb2b7116ff4644c1bfac1d825065f37ed0;2011-09-02T03:39:42+0300;core/src/main/java/org/apache/oozie/command/coord/CoordResumeXCommand.java;80b0a19373685d9f7273cc444a917daf2ae3f60d;2011-09-02T03:35:43+0300;OOZIE-47;
 0fadafeb2b7116ff4644c1bfac1d825065f37ed0;2011-09-02T03:39:42+0300;core/src/test/java/org/apache/oozie/command/coord/TestCoordResumeXCommand.java;;;OOZIE-47;No changed lines, only additions
 0fadafeb2b7116ff4644c1bfac1d825065f37ed0;2011-09-02T03:39:42+0300;release-log.txt;;;OOZIE-47;Ignored file type
+491260e70c472f3f63d9e385e618cb8c0538f12c;2011-09-02T03:39:40+0300;core/src/main/java/org/apache/oozie/service/StatusTransitService.java;2809e993cc3ace4a20f751e393e23f0c35f4e84d;2011-09-02T03:39:12+0300;OOZIE-45;
+491260e70c472f3f63d9e385e618cb8c0538f12c;2011-09-02T03:39:40+0300;core/src/test/java/org/apache/oozie/service/TestStatusTransitService.java;;;OOZIE-45;No changed lines, only additions
+491260e70c472f3f63d9e385e618cb8c0538f12c;2011-09-02T03:39:40+0300;release-log.txt;;;OOZIE-45;Ignored file type
+b4b1d1042215436f7fdfaa831db2874d83c2717e;2011-09-02T03:39:37+0300;core/src/main/java/org/apache/oozie/service/BundlePauseStartService.java;de5105e38d7fb5037418ba90be85c09a73a22f97;2011-09-02T03:38:56+0300;OOZIE-37;
+b4b1d1042215436f7fdfaa831db2874d83c2717e;2011-09-02T03:39:37+0300;release-log.txt;;;OOZIE-37;Ignored file type
 04ed01430e597af02d13dca4dd5da76996ad0850;2011-09-02T03:39:36+0300;core/src/main/java/org/apache/oozie/command/bundle/BundleJobChangeXCommand.java;5956f7d6def86bad207cf8166fbe6e56c42be780;2011-09-02T03:36:40+0300;OOZIE-52;
 04ed01430e597af02d13dca4dd5da76996ad0850;2011-09-02T03:39:36+0300;core/src/test/java/org/apache/oozie/command/bundle/TestBundleChangeXCommand.java;;;OOZIE-52;No changed lines, only additions
 04ed01430e597af02d13dca4dd5da76996ad0850;2011-09-02T03:39:36+0300;core/src/test/java/org/apache/oozie/executor/jpa/TestBundleJobsGetForPurgeJPAExecutor.java;;;OOZIE-52;No changed lines, only additions
@@ -6530,6 +6644,9 @@ af2d90802b330f5c273cfa79c8ebc86dd11e0bf7;2011-09-02T03:39:58+0300;core/src/main/
 e77880f2bced40204b1a71450465eb9486a6c94f;2011-09-02T03:39:27+0300;core/src/main/java/org/apache/oozie/command/coord/CoordKillXCommand.java;4316261e13c16a902d683c0456a64c186adb2698;2011-09-02T03:38:04+0300;OOZIE-54;
 e77880f2bced40204b1a71450465eb9486a6c94f;2011-09-02T03:39:27+0300;release-log.txt;;;OOZIE-54;Ignored file type
 7004566eafff203cfad3fb6cfaf045974208641b;2011-09-02T03:39:26+0300;core/src/main/java/org/apache/oozie/CoordinatorActionBean.java;;;OOZIE-55;No changed lines, only additions
+8f8bdf6a852a43cfdeb3e6821bc436364bc42514;2011-09-02T03:39:25+0300;utils/dbutils/updatescripts/readme.txt;;;OOZIE-17;Ignored file type
+8f8bdf6a852a43cfdeb3e6821bc436364bc42514;2011-09-02T03:39:25+0300;utils/dbutils/updatescripts/updatescripts-2.2.5-to-3.0.0.sql;;;OOZIE-17;No changed lines, only additions
+8f8bdf6a852a43cfdeb3e6821bc436364bc42514;2011-09-02T03:39:25+0300;utils/dbutils/updatescripts/upgradescript-2.x-to-3.0.0.sql;;;OOZIE-17;No changed lines, only additions
 978ff130f6e14b62fd85b715f04132b779d1fda4;2011-09-02T03:39:24+0300;pom.xml;41a7c1df0766aa21ae0e5d773c0c949e881680df;2011-09-02T03:39:20+0300;OOZIE-56;
 978ff130f6e14b62fd85b715f04132b779d1fda4;2011-09-02T03:39:24+0300;release-log.txt;;;OOZIE-56;Ignored file type
 49f5691180f0e293e1d926a5db0a6f14d771640f;2011-09-02T03:39:22+0300;client/pom.xml;41a7c1df0766aa21ae0e5d773c0c949e881680df;2011-09-02T03:39:20+0300;OOZIE-50;
@@ -6541,7 +6658,37 @@ e77880f2bced40204b1a71450465eb9486a6c94f;2011-09-02T03:39:27+0300;release-log.tx
 49f5691180f0e293e1d926a5db0a6f14d771640f;2011-09-02T03:39:22+0300;release-log.txt;;;OOZIE-50;Ignored file type
 49f5691180f0e293e1d926a5db0a6f14d771640f;2011-09-02T03:39:22+0300;sharelib/pom.xml;41a7c1df0766aa21ae0e5d773c0c949e881680df;2011-09-02T03:39:20+0300;OOZIE-50;
 49f5691180f0e293e1d926a5db0a6f14d771640f;2011-09-02T03:39:22+0300;webapp/pom.xml;41a7c1df0766aa21ae0e5d773c0c949e881680df;2011-09-02T03:39:20+0300;OOZIE-50;
+41a7c1df0766aa21ae0e5d773c0c949e881680df;2011-09-02T03:39:20+0300;client/pom.xml;949430003c8294007859bfe82253ccca22082a47;2011-09-02T03:34:58+0300;OOZIE-41;
+41a7c1df0766aa21ae0e5d773c0c949e881680df;2011-09-02T03:39:20+0300;core/pom.xml;949430003c8294007859bfe82253ccca22082a47;2011-09-02T03:34:58+0300;OOZIE-41;
+41a7c1df0766aa21ae0e5d773c0c949e881680df;2011-09-02T03:39:20+0300;distro/pom.xml;949430003c8294007859bfe82253ccca22082a47;2011-09-02T03:34:58+0300;OOZIE-41;
+41a7c1df0766aa21ae0e5d773c0c949e881680df;2011-09-02T03:39:20+0300;docs/pom.xml;949430003c8294007859bfe82253ccca22082a47;2011-09-02T03:34:58+0300;OOZIE-41;
+41a7c1df0766aa21ae0e5d773c0c949e881680df;2011-09-02T03:39:20+0300;examples/pom.xml;949430003c8294007859bfe82253ccca22082a47;2011-09-02T03:34:58+0300;OOZIE-41;
+41a7c1df0766aa21ae0e5d773c0c949e881680df;2011-09-02T03:39:20+0300;pom.xml;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-41;
+41a7c1df0766aa21ae0e5d773c0c949e881680df;2011-09-02T03:39:20+0300;sharelib/pom.xml;949430003c8294007859bfe82253ccca22082a47;2011-09-02T03:34:58+0300;OOZIE-41;
+41a7c1df0766aa21ae0e5d773c0c949e881680df;2011-09-02T03:39:20+0300;webapp/pom.xml;949430003c8294007859bfe82253ccca22082a47;2011-09-02T03:34:58+0300;OOZIE-41;
+41a7c1df0766aa21ae0e5d773c0c949e881680df;2011-09-02T03:39:20+0300;work.log;;;OOZIE-41;No changed lines, only additions
+26cc49ab16a8c1cbf3616c0a4fee32abaf8f8bd6;2011-09-02T03:39:17+0300;examples/src/main/apps/bundle/bundle.xml;;;OOZIE-38;No changed lines, only additions
+26cc49ab16a8c1cbf3616c0a4fee32abaf8f8bd6;2011-09-02T03:39:17+0300;examples/src/main/apps/bundle/job.properties;;;OOZIE-38;No changed lines, only additions
+26cc49ab16a8c1cbf3616c0a4fee32abaf8f8bd6;2011-09-02T03:39:17+0300;work.log;;;OOZIE-38;No changed lines, only additions
+ed7b19a6474821a0a1a57d846e702b60724837c9;2011-09-02T03:39:16+0300;docs/src/site/twiki/BundleFunctionalSpec.twiki;8fe64dd5f7eee581a69a8e3f14b0185990a3765e;2011-09-02T03:38:40+0300;OOZIE-39;
+ed7b19a6474821a0a1a57d846e702b60724837c9;2011-09-02T03:39:16+0300;docs/src/site/twiki/CoordinatorFunctionalSpec.twiki;eee8d3c152dffacd5790df7bc34f86f5ed1f4b27;2011-09-02T03:38:46+0300;OOZIE-39;
+ed7b19a6474821a0a1a57d846e702b60724837c9;2011-09-02T03:39:16+0300;docs/src/site/twiki/DG_CoordinatorRerun.twiki;35f3dd01cc5b191f2e0980297807237568920b20;2011-09-02T03:32:23+0300;OOZIE-39;
+ed7b19a6474821a0a1a57d846e702b60724837c9;2011-09-02T03:39:16+0300;release-log.txt;;;OOZIE-39;Ignored file type
+ed7b19a6474821a0a1a57d846e702b60724837c9;2011-09-02T03:39:16+0300;work.log;;;OOZIE-39;No changed lines, only additions
+627952bdc2816dd2e1060c3ea13f76044a505fba;2011-09-02T03:39:15+0300;release-log.txt;;;OOZIE-25;Ignored file type
+627952bdc2816dd2e1060c3ea13f76044a505fba;2011-09-02T03:39:15+0300;work.log;;;OOZIE-25;No changed lines, only additions
+2d8c0638067d084d8bf3f338bed1b632c7c7da28;2011-09-02T03:39:13+0300;core/src/main/java/org/apache/oozie/command/coord/CoordRerunXCommand.java;9cfcc6a0d2e6ca7e9a311f9d95daa98e4c7a3802;2011-09-02T03:39:08+0300;OOZIE-36;
+2d8c0638067d084d8bf3f338bed1b632c7c7da28;2011-09-02T03:39:13+0300;core/src/test/java/org/apache/oozie/command/coord/TestCoordRerunXCommand.java;9cfcc6a0d2e6ca7e9a311f9d95daa98e4c7a3802;2011-09-02T03:39:08+0300;OOZIE-36;
+2d8c0638067d084d8bf3f338bed1b632c7c7da28;2011-09-02T03:39:13+0300;release-log.txt;;;OOZIE-36;Ignored file type
 c1dfe8946c819208108ce2f2631b805297962deb;2011-09-02T03:39:11+0300;core/src/main/java/org/apache/oozie/command/coord/CoordChangeXCommand.java;;;OOZIE-32;
+9cfcc6a0d2e6ca7e9a311f9d95daa98e4c7a3802;2011-09-02T03:39:08+0300;core/src/main/java/org/apache/oozie/command/coord/CoordRerunXCommand.java;;;OOZIE-30;No changed lines, only additions
+9cfcc6a0d2e6ca7e9a311f9d95daa98e4c7a3802;2011-09-02T03:39:08+0300;core/src/test/java/org/apache/oozie/command/coord/TestCoordRerunXCommand.java;;;OOZIE-30;No changed lines, only additions
+9cfcc6a0d2e6ca7e9a311f9d95daa98e4c7a3802;2011-09-02T03:39:08+0300;release-log.txt;;;OOZIE-30;Ignored file type
+1b71a6bc6f410bdba0da58784ed770ff71aac034;2011-09-02T03:39:06+0300;client/src/main/java/org/apache/oozie/cli/OozieCLI.java;9c8d6c174c1234eb83160874fedaa09784809dbd;2011-09-02T03:36:27+0300;OOZIE-29;
+1b71a6bc6f410bdba0da58784ed770ff71aac034;2011-09-02T03:39:06+0300;release-log.txt;;;OOZIE-29;Ignored file type
+d33a47229beaeb69f2fc5d6a29b0d0aac209fa87;2011-09-02T03:39:02+0300;distro/src/main/bin/oozie-setup.sh;265d9c71546795205dd6f81fca16b6002b20e895;2011-09-02T03:34:04+0300;OOZIE-19;
+d33a47229beaeb69f2fc5d6a29b0d0aac209fa87;2011-09-02T03:39:02+0300;docs/src/site/twiki/AG_Install.twiki;265d9c71546795205dd6f81fca16b6002b20e895;2011-09-02T03:34:04+0300;OOZIE-19;
+d33a47229beaeb69f2fc5d6a29b0d0aac209fa87;2011-09-02T03:39:02+0300;release-log.txt;;;OOZIE-19;Ignored file type
 db130704b8f73b3bf178d68020c1f83a50a5de94;2011-09-02T03:39:00+0300;core/src/main/java/org/apache/oozie/command/coord/CoordActionUpdateXCommand.java;;;OOZIE-27;
 db130704b8f73b3bf178d68020c1f83a50a5de94;2011-09-02T03:39:00+0300;core/src/main/java/org/apache/oozie/command/coord/CoordRerunXCommand.java;;;OOZIE-27;
 db130704b8f73b3bf178d68020c1f83a50a5de94;2011-09-02T03:39:00+0300;core/src/main/java/org/apache/oozie/command/wf/ActionStartXCommand.java;;;OOZIE-27;
@@ -6551,3 +6698,40 @@ db130704b8f73b3bf178d68020c1f83a50a5de94;2011-09-02T03:39:00+0300;core/src/test/
 db130704b8f73b3bf178d68020c1f83a50a5de94;2011-09-02T03:39:00+0300;core/src/test/java/org/apache/oozie/command/wf/TestReRunCommand.java;;;OOZIE-27;
 db130704b8f73b3bf178d68020c1f83a50a5de94;2011-09-02T03:39:00+0300;core/src/test/java/org/apache/oozie/command/wf/TestReRunXCommand.java;;;OOZIE-27;
 db130704b8f73b3bf178d68020c1f83a50a5de94;2011-09-02T03:39:00+0300;release-log.txt;;;OOZIE-27;Ignored file type
+0cf67a95841c23bf38e7b45c4917a01cad332136;2011-09-02T03:38:58+0300;examples/src/main/apps/aggregator/coordinator.xml;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-23;
+0cf67a95841c23bf38e7b45c4917a01cad332136;2011-09-02T03:38:58+0300;examples/src/main/apps/aggregator/workflow.xml;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-23;
+0cf67a95841c23bf38e7b45c4917a01cad332136;2011-09-02T03:38:58+0300;examples/src/main/apps/cron/coordinator.xml;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-23;
+0cf67a95841c23bf38e7b45c4917a01cad332136;2011-09-02T03:38:58+0300;examples/src/main/apps/cron/workflow.xml;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-23;
+0cf67a95841c23bf38e7b45c4917a01cad332136;2011-09-02T03:38:58+0300;examples/src/main/apps/custom-main/workflow.xml;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-23;
+0cf67a95841c23bf38e7b45c4917a01cad332136;2011-09-02T03:38:58+0300;examples/src/main/apps/datelist-java-main/workflow.xml;320fae8c2bfaddf8b5859fd42b3b6b70f7d14fc1;2011-09-02T03:36:21+0300;OOZIE-23;
+0cf67a95841c23bf38e7b45c4917a01cad332136;2011-09-02T03:38:58+0300;examples/src/main/apps/demo/workflow.xml;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-23;
+0cf67a95841c23bf38e7b45c4917a01cad332136;2011-09-02T03:38:58+0300;examples/src/main/apps/hadoop-el/workflow.xml;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-23;
+0cf67a95841c23bf38e7b45c4917a01cad332136;2011-09-02T03:38:58+0300;examples/src/main/apps/java-main/workflow.xml;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-23;
+0cf67a95841c23bf38e7b45c4917a01cad332136;2011-09-02T03:38:58+0300;examples/src/main/apps/map-reduce/workflow.xml;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-23;
+0cf67a95841c23bf38e7b45c4917a01cad332136;2011-09-02T03:38:58+0300;examples/src/main/apps/no-op/workflow.xml;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-23;
+0cf67a95841c23bf38e7b45c4917a01cad332136;2011-09-02T03:38:58+0300;examples/src/main/apps/pig/workflow.xml;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-23;
+0cf67a95841c23bf38e7b45c4917a01cad332136;2011-09-02T03:38:58+0300;examples/src/main/apps/ssh/job.properties;;;OOZIE-23;No changed lines, only additions
+0cf67a95841c23bf38e7b45c4917a01cad332136;2011-09-02T03:38:58+0300;examples/src/main/apps/ssh/workflow.xml;;;OOZIE-23;No changed lines, only additions
+0cf67a95841c23bf38e7b45c4917a01cad332136;2011-09-02T03:38:58+0300;examples/src/main/apps/streaming/workflow.xml;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-23;
+0cf67a95841c23bf38e7b45c4917a01cad332136;2011-09-02T03:38:58+0300;examples/src/main/apps/subwf/workflow.xml;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-23;
+0cf67a95841c23bf38e7b45c4917a01cad332136;2011-09-02T03:38:58+0300;release-log.txt;;;OOZIE-23;Ignored file type
+721b2bfd26351dd4c253f3b53aac4434ac8f3483;2011-09-02T03:38:54+0300;examples/src/main/apps/aggregator/job.properties;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-20;
+721b2bfd26351dd4c253f3b53aac4434ac8f3483;2011-09-02T03:38:54+0300;examples/src/main/apps/cron/job.properties;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-20;
+721b2bfd26351dd4c253f3b53aac4434ac8f3483;2011-09-02T03:38:54+0300;examples/src/main/apps/custom-main/job.properties;4e1b60b2312a143384fc33435d138e67a5869fc3;2011-09-02T03:33:41+0300;OOZIE-20;
+721b2bfd26351dd4c253f3b53aac4434ac8f3483;2011-09-02T03:38:54+0300;examples/src/main/apps/custom-main/workflow.xml;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-20;
+721b2bfd26351dd4c253f3b53aac4434ac8f3483;2011-09-02T03:38:54+0300;examples/src/main/apps/demo/job.properties;4e1b60b2312a143384fc33435d138e67a5869fc3;2011-09-02T03:33:41+0300;OOZIE-20;
+721b2bfd26351dd4c253f3b53aac4434ac8f3483;2011-09-02T03:38:54+0300;examples/src/main/apps/demo/workflow.xml;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-20;
+721b2bfd26351dd4c253f3b53aac4434ac8f3483;2011-09-02T03:38:54+0300;examples/src/main/apps/hadoop-el/job.properties;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-20;
+721b2bfd26351dd4c253f3b53aac4434ac8f3483;2011-09-02T03:38:54+0300;examples/src/main/apps/hadoop-el/workflow.xml;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-20;
+721b2bfd26351dd4c253f3b53aac4434ac8f3483;2011-09-02T03:38:54+0300;examples/src/main/apps/java-main/job.properties;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-20;
+721b2bfd26351dd4c253f3b53aac4434ac8f3483;2011-09-02T03:38:54+0300;examples/src/main/apps/map-reduce/job.properties;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-20;
+721b2bfd26351dd4c253f3b53aac4434ac8f3483;2011-09-02T03:38:54+0300;examples/src/main/apps/map-reduce/workflow.xml;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-20;
+721b2bfd26351dd4c253f3b53aac4434ac8f3483;2011-09-02T03:38:54+0300;examples/src/main/apps/no-op/job.properties;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-20;
+721b2bfd26351dd4c253f3b53aac4434ac8f3483;2011-09-02T03:38:54+0300;examples/src/main/apps/pig/job.properties;4e1b60b2312a143384fc33435d138e67a5869fc3;2011-09-02T03:33:41+0300;OOZIE-20;
+721b2bfd26351dd4c253f3b53aac4434ac8f3483;2011-09-02T03:38:54+0300;examples/src/main/apps/pig/workflow.xml;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-20;
+721b2bfd26351dd4c253f3b53aac4434ac8f3483;2011-09-02T03:38:54+0300;examples/src/main/apps/ssh/job.properties;;;OOZIE-20;No changed lines, only additions
+721b2bfd26351dd4c253f3b53aac4434ac8f3483;2011-09-02T03:38:54+0300;examples/src/main/apps/streaming/job.properties;4e1b60b2312a143384fc33435d138e67a5869fc3;2011-09-02T03:33:41+0300;OOZIE-20;
+721b2bfd26351dd4c253f3b53aac4434ac8f3483;2011-09-02T03:38:54+0300;examples/src/main/apps/streaming/workflow.xml;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-20;
+721b2bfd26351dd4c253f3b53aac4434ac8f3483;2011-09-02T03:38:54+0300;examples/src/main/apps/subwf/job.properties;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-20;
+721b2bfd26351dd4c253f3b53aac4434ac8f3483;2011-09-02T03:38:54+0300;examples/src/main/apps/subwf/workflow.xml;00278303e6c3caa4e3bf04cb79e595f3790f81d4;2011-09-02T03:33:05+0300;OOZIE-20;
+721b2bfd26351dd4c253f3b53aac4434ac8f3483;2011-09-02T03:38:54+0300;release-log.txt;;;OOZIE-20;Ignored file type
