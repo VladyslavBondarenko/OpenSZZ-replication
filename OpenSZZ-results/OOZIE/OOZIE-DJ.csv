@@ -405,12 +405,12 @@ db15e6d30dea13d5c4f78c0bbba96205e16c5981;2018-12-06T13:50:48+0200;release-log.tx
 89248dd26d9312e5a7390752939e1a73f8da8d07;2018-11-05T17:56:33+0200;release-log.txt;;;OOZIE-3376;Ignored file type
 38ab52f59039675927312a130d297d351454baac;2018-11-05T10:56:49+0200;core/src/main/java/org/apache/oozie/command/XCommand.java;70052969a1df064957bc5dd06d69fc1955401e1b;2016-01-26T20:43:33+0200;OOZIE-3373;
 38ab52f59039675927312a130d297d351454baac;2018-11-05T10:56:49+0200;release-log.txt;;;OOZIE-3373;Ignored file type
-fdcd8908b4b29ff5c09c5bcecb313aa44c998a22;2018-10-25T13:11:03+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-3370;
+fdcd8908b4b29ff5c09c5bcecb313aa44c998a22;2018-10-25T13:11:03+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-3370;
 fdcd8908b4b29ff5c09c5bcecb313aa44c998a22;2018-10-25T13:11:03+0300;core/src/main/java/org/apache/oozie/util/ConfigUtils.java;;;OOZIE-3370;
 fdcd8908b4b29ff5c09c5bcecb313aa44c998a22;2018-10-25T13:11:03+0300;release-log.txt;;;OOZIE-3370;Ignored file type
 70f34bdd6d2a6732bc6b8b705172c5d9acbe5665;2018-10-17T20:08:48+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;21761f5b5b2b4457302aef780239610d076047e5;2017-05-26T12:03:49+0300;OOZIE-3370;
 70f34bdd6d2a6732bc6b8b705172c5d9acbe5665;2018-10-17T20:08:48+0300;core/src/main/java/org/apache/oozie/action/hadoop/LauncherConfigurationInjector.java;8b4f53c75ade69d0997fd4d292d7753d1f5721ce;2017-10-27T16:05:21+0300;OOZIE-3370;
-70f34bdd6d2a6732bc6b8b705172c5d9acbe5665;2018-10-17T20:08:48+0300;core/src/main/java/org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java;9501311af7a50904c7eabee1fa1a9053c17234ac;2011-09-02T03:31:55+0300;OOZIE-3370;
+70f34bdd6d2a6732bc6b8b705172c5d9acbe5665;2018-10-17T20:08:48+0300;core/src/main/java/org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java;30cd440990e99c1f1ad8b9a7bea66913152cb370;2012-03-13T00:55:41+0200;OOZIE-3370;
 70f34bdd6d2a6732bc6b8b705172c5d9acbe5665;2018-10-17T20:08:48+0300;core/src/main/java/org/apache/oozie/command/bundle/BundleStartXCommand.java;;;OOZIE-3370;No changed lines, only additions
 70f34bdd6d2a6732bc6b8b705172c5d9acbe5665;2018-10-17T20:08:48+0300;core/src/main/java/org/apache/oozie/command/bundle/BundleSubmitXCommand.java;30cd440990e99c1f1ad8b9a7bea66913152cb370;2012-03-13T00:55:41+0200;OOZIE-3370;
 70f34bdd6d2a6732bc6b8b705172c5d9acbe5665;2018-10-17T20:08:48+0300;core/src/main/java/org/apache/oozie/command/coord/CoordActionStartXCommand.java;;;OOZIE-3370;No changed lines, only additions
@@ -553,7 +553,7 @@ ae11fe7a9f07bed71faaec3a91232514c67f8b0f;2018-08-08T12:17:41+0300;src/main/assem
 3c03d03fe606659fd80c430b13f413fbdfa21faa;2018-07-30T15:42:51+0300;tools/src/test/java/org/apache/oozie/tools/TestCopyTaskCallable.java;;;OOZIE-2829;
 3c03d03fe606659fd80c430b13f413fbdfa21faa;2018-07-30T15:42:51+0300;tools/src/test/java/org/apache/oozie/tools/TestOozieSharelibCLI.java;a5779d75c076f43dcd9cf8d284c0f82d96a88c9d;2015-12-16T00:24:33+0200;OOZIE-2829;
 3c03d03fe606659fd80c430b13f413fbdfa21faa;2018-07-30T15:42:51+0300;tools/src/test/java/org/apache/oozie/tools/TestOozieSharelibCLIExtraArgsParser.java;;;OOZIE-2829;No changed lines, only additions
-2dd10ff0fb7d7b53c0c177d5d4439fa065366f4c;2018-07-30T10:58:47+0300;core/src/main/java/org/apache/oozie/servlet/V2SLAServlet.java;;;OOZIE-3309;No changed lines, only additions
+2dd10ff0fb7d7b53c0c177d5d4439fa065366f4c;2018-07-30T10:58:47+0300;core/src/main/java/org/apache/oozie/servlet/V2SLAServlet.java;1b1ef47ad35f893e1fa2a8245dc954c94570e937;2015-04-01T22:52:29+0300;OOZIE-3309;
 2dd10ff0fb7d7b53c0c177d5d4439fa065366f4c;2018-07-30T10:58:47+0300;core/src/test/java/org/apache/oozie/servlet/TestV2SLAServlet.java;;;OOZIE-3309;No changed lines, only additions
 2dd10ff0fb7d7b53c0c177d5d4439fa065366f4c;2018-07-30T10:58:47+0300;release-log.txt;;;OOZIE-3309;Ignored file type
 03b1a9f1e8d9443b337770bb3ecf7b43aeec49e8;2018-07-10T15:48:34+0300;core/src/main/java/org/apache/oozie/DagELFunctions.java;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-3208;
@@ -701,7 +701,7 @@ a4732f9e9ec19d4d5cddc9bdebd804486166e0a4;2018-04-05T11:09:11+0300;release-log.tx
 4f40493474ce60002e6bf2bcc1e67ac6701c6dd3;2018-03-27T13:20:38+0300;core/src/main/java/org/apache/oozie/SLAEventBean.java;;;OOZIE-3176;No changed lines, only additions
 4f40493474ce60002e6bf2bcc1e67ac6701c6dd3;2018-03-27T13:20:38+0300;core/src/main/java/org/apache/oozie/WorkflowActionBean.java;;;OOZIE-3176;No changed lines, only additions
 4f40493474ce60002e6bf2bcc1e67ac6701c6dd3;2018-03-27T13:20:38+0300;core/src/main/java/org/apache/oozie/WorkflowJobBean.java;;;OOZIE-3176;No changed lines, only additions
-4f40493474ce60002e6bf2bcc1e67ac6701c6dd3;2018-03-27T13:20:38+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-3176;No changed lines, only additions
+4f40493474ce60002e6bf2bcc1e67ac6701c6dd3;2018-03-27T13:20:38+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-3176;
 4f40493474ce60002e6bf2bcc1e67ac6701c6dd3;2018-03-27T13:20:38+0300;core/src/main/java/org/apache/oozie/client/rest/JsonBean.java;;;OOZIE-3176;No changed lines, only additions
 4f40493474ce60002e6bf2bcc1e67ac6701c6dd3;2018-03-27T13:20:38+0300;core/src/main/java/org/apache/oozie/command/bundle/BundleJobSuspendXCommand.java;4d9b63b13a567533da35ee1574c2b0d0b3725c81;2012-09-04T22:24:13+0300;OOZIE-3176;
 4f40493474ce60002e6bf2bcc1e67ac6701c6dd3;2018-03-27T13:20:38+0300;core/src/main/java/org/apache/oozie/command/coord/CoordActionInputCheckXCommand.java;;;OOZIE-3176;No changed lines, only additions
@@ -874,7 +874,7 @@ eb79701e465d47caf866ead02aaba58b07504979;2018-01-17T12:20:08+0200;release-log.tx
 9491db0b82e5dc9ccdb172576f12f91f16893521;2018-01-16T15:29:18+0200;core/src/main/java/org/apache/oozie/action/email/EmailActionExecutor.java;403e49a709221cb25c09cb4f5cc175703584aff9;2015-03-11T23:14:29+0200;OOZIE-3085;
 9491db0b82e5dc9ccdb172576f12f91f16893521;2018-01-16T15:29:18+0200;core/src/main/java/org/apache/oozie/action/hadoop/FsActionExecutor.java;;;OOZIE-3085;No changed lines, only additions
 9491db0b82e5dc9ccdb172576f12f91f16893521;2018-01-16T15:29:18+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;4606656bde10ebf63baccc99969971d0660842cd;2013-11-26T22:14:33+0200;OOZIE-3085;
-9491db0b82e5dc9ccdb172576f12f91f16893521;2018-01-16T15:29:18+0200;core/src/main/java/org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java;;;OOZIE-3085;No changed lines, only additions
+9491db0b82e5dc9ccdb172576f12f91f16893521;2018-01-16T15:29:18+0200;core/src/main/java/org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java;30cd440990e99c1f1ad8b9a7bea66913152cb370;2012-03-13T00:55:41+0200;OOZIE-3085;
 9491db0b82e5dc9ccdb172576f12f91f16893521;2018-01-16T15:29:18+0200;core/src/main/java/org/apache/oozie/action/ssh/SshActionExecutor.java;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-3085;
 9491db0b82e5dc9ccdb172576f12f91f16893521;2018-01-16T15:29:18+0200;release-log.txt;;;OOZIE-3085;Ignored file type
 e68f723a320f48a52f3266cce5c037916ebff3e0;2018-01-09T17:48:02+0200;client/src/main/java/org/apache/oozie/client/OozieClient.java;50b92932f54d46e342403acaa33b7ae1a524328c;2017-07-14T10:28:06+0300;OOZIE-3083;
@@ -1145,7 +1145,7 @@ ba5c3c90945363317e16368b045db7fe8e38761c;2017-07-31T11:41:22+0300;tools/src/test
 18694b616f419ed958230cedb2dc0431a9f9cb5d;2017-07-18T03:21:32+0300;core/src/main/java/org/apache/oozie/dependency/ActionDependency.java;;;OOZIE-2987;No changed lines, only additions
 18694b616f419ed958230cedb2dc0431a9f9cb5d;2017-07-18T03:21:32+0300;core/src/test/java/org/apache/oozie/command/coord/TestCoordActionMissingDependenciesXCommand.java;9035d91cf352ad2e3328feef6e04f067e8e2bc8c;2017-01-30T05:07:39+0200;OOZIE-2987;
 18694b616f419ed958230cedb2dc0431a9f9cb5d;2017-07-18T03:21:32+0300;release-log.txt;;;OOZIE-2987;Ignored file type
-79ccfdd789fbb465356732ec6f16f83985b72b3e;2017-06-28T15:28:25+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-2733;
+79ccfdd789fbb465356732ec6f16f83985b72b3e;2017-06-28T15:28:25+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-2733;
 79ccfdd789fbb465356732ec6f16f83985b72b3e;2017-06-28T15:28:25+0300;core/src/main/java/org/apache/oozie/service/AuthorizationService.java;9501311af7a50904c7eabee1fa1a9053c17234ac;2011-09-02T03:31:55+0300;OOZIE-2733;
 79ccfdd789fbb465356732ec6f16f83985b72b3e;2017-06-28T15:28:25+0300;release-log.txt;;;OOZIE-2733;Ignored file type
 5778c6f5625747d92e25b2aff22bd20369c3d18b;2017-06-27T23:33:36+0300;docs/src/site/twiki/DG_QuickStart.twiki;d8aca11d815364528d7d3876f3adc9b59c17b9f9;2014-12-30T08:00:51+0200;OOZIE-2884;
@@ -1159,7 +1159,7 @@ ba5c3c90945363317e16368b045db7fe8e38761c;2017-07-31T11:41:22+0300;tools/src/test
 9937e4c4ace15f8408d7f36a3dfb6d9de5dca877;2017-06-21T13:30:24+0300;server/src/test/java/org/apache/oozie/server/TestSSLServerConnectorFactory.java;;;OOZIE-2846;No changed lines, only additions
 8bb40f3fa88c1d17984108a8ec0ff56fd24800f6;2017-06-20T13:08:32+0300;core/src/main/java/org/apache/oozie/WorkflowJobBean.java;;;OOZIE-2796;No changed lines, only additions
 8bb40f3fa88c1d17984108a8ec0ff56fd24800f6;2017-06-20T13:08:32+0300;core/src/main/java/org/apache/oozie/action/hadoop/FsActionExecutor.java;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-2796;
-8bb40f3fa88c1d17984108a8ec0ff56fd24800f6;2017-06-20T13:08:32+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-2796;
+8bb40f3fa88c1d17984108a8ec0ff56fd24800f6;2017-06-20T13:08:32+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-2796;
 8bb40f3fa88c1d17984108a8ec0ff56fd24800f6;2017-06-20T13:08:32+0300;core/src/main/java/org/apache/oozie/command/wf/ActionKillXCommand.java;c5f5f9d6bae8ab44b54f728ebee15851478fa272;2016-05-27T23:07:27+0300;OOZIE-2796;
 8bb40f3fa88c1d17984108a8ec0ff56fd24800f6;2017-06-20T13:08:32+0300;core/src/main/java/org/apache/oozie/command/wf/WfEndXCommand.java;055f4a320abc342da884da5905303e6781d6a90b;2012-12-07T20:08:24+0200;OOZIE-2796;
 8bb40f3fa88c1d17984108a8ec0ff56fd24800f6;2017-06-20T13:08:32+0300;core/src/main/java/org/apache/oozie/command/wf/WorkflowXCommand.java;;;OOZIE-2796;No changed lines, only additions
@@ -1186,7 +1186,7 @@ e019f74b862d148fa911c53cf75dc9c5fe7cf385;2017-06-08T16:34:16+0300;release-log.tx
 6121dc0cd19c3f7d2f4412922cffd1ff47e6f756;2017-05-29T14:20:03+0300;release-log.txt;;;OOZIE-2917;Ignored file type
 53b1d1e4392cfd35d10860e3b1437273d909a316;2017-05-17T23:48:26+0300;core/src/main/resources/oozie-default.xml;e0b7cde711b1b9e1a03660ec635041eeb9755049;2017-05-15T13:50:28+0300;OOZIE-2908;
 53b1d1e4392cfd35d10860e3b1437273d909a316;2017-05-17T23:48:26+0300;release-log.txt;;;OOZIE-2908;Ignored file type
-e0b7cde711b1b9e1a03660ec635041eeb9755049;2017-05-15T13:50:28+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-2872;No changed lines, only additions
+e0b7cde711b1b9e1a03660ec635041eeb9755049;2017-05-15T13:50:28+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-2872;
 e0b7cde711b1b9e1a03660ec635041eeb9755049;2017-05-15T13:50:28+0300;core/src/main/resources/oozie-default.xml;;;OOZIE-2872;No changed lines, only additions
 e0b7cde711b1b9e1a03660ec635041eeb9755049;2017-05-15T13:50:28+0300;core/src/test/java/org/apache/oozie/action/hadoop/TestJavaActionExecutor.java;c7fa12bb1abac643c60c7282626c39b690ae378b;2017-01-06T20:40:32+0200;OOZIE-2872;
 e0b7cde711b1b9e1a03660ec635041eeb9755049;2017-05-15T13:50:28+0300;release-log.txt;;;OOZIE-2872;Ignored file type
@@ -1297,7 +1297,7 @@ cb03d287e876882561dc5497aefec404895da515;2017-03-22T12:50:24+0200;release-log.tx
 c6e1e5425d4608bb276e9347ee57ca1b2839dbd2;2017-03-16T03:38:07+0200;core/src/main/java/org/apache/oozie/action/hadoop/ScriptLanguageActionExecutor.java;6106d7d9a864a446712da79d06d40ce67cecba37;2013-03-13T03:40:37+0200;OOZIE-2819;
 c6e1e5425d4608bb276e9347ee57ca1b2839dbd2;2017-03-16T03:38:07+0200;core/src/test/java/org/apache/oozie/action/hadoop/TestScriptLanguageActionExecutor.java;;;OOZIE-2819;No changed lines, only additions
 c6e1e5425d4608bb276e9347ee57ca1b2839dbd2;2017-03-16T03:38:07+0200;release-log.txt;;;OOZIE-2819;Ignored file type
-2b655d746f7da689f3d99c18b240f4d7ea6bfad9;2017-03-11T01:20:59+0200;client/src/main/java/org/apache/oozie/client/event/jms/JMSMessagingUtils.java;;;OOZIE-2750;No changed lines, only additions
+2b655d746f7da689f3d99c18b240f4d7ea6bfad9;2017-03-11T01:20:59+0200;client/src/main/java/org/apache/oozie/client/event/jms/JMSMessagingUtils.java;0492ce4f059641a286b6a258bf6f8f37d32ae94c;2013-05-08T20:59:52+0300;OOZIE-2750;
 2b655d746f7da689f3d99c18b240f4d7ea6bfad9;2017-03-11T01:20:59+0200;core/src/main/java/org/apache/oozie/ErrorCode.java;;;OOZIE-2750;No changed lines, only additions
 2b655d746f7da689f3d99c18b240f4d7ea6bfad9;2017-03-11T01:20:59+0200;core/src/main/java/org/apache/oozie/action/email/EmailActionExecutor.java;1c4d0e3a3eff3a808831a2ca10667d2582eac4a7;2011-09-02T03:41:23+0300;OOZIE-2750;
 2b655d746f7da689f3d99c18b240f4d7ea6bfad9;2017-03-11T01:20:59+0200;core/src/main/java/org/apache/oozie/command/SchemaCheckXCommand.java;9839fb292e5483f4d101849483109208de75f9c3;2015-08-27T20:15:34+0300;OOZIE-2750;
@@ -1432,7 +1432,7 @@ c52967dfb6883bb6469567a2f951bab0c7948855;2017-01-30T05:09:45+0200;release-log.tx
 9035d91cf352ad2e3328feef6e04f067e8e2bc8c;2017-01-30T05:07:39+0200;release-log.txt;;;OOZIE-2770;Ignored file type
 9035d91cf352ad2e3328feef6e04f067e8e2bc8c;2017-01-30T05:07:39+0200;webapp/src/main/webapp/oozie-console.js;9948829a1b4897ddc5ce5e9409ccc91d080b03c1;2015-06-29T21:52:13+0300;OOZIE-2770;
 b4c75a3c64db7c1d84dbc3485e0e73817b70a29f;2017-01-25T08:45:12+0200;core/src/main/conf/action-conf/hive.xml;;;OOZIE-2619;No changed lines, only additions
-b4c75a3c64db7c1d84dbc3485e0e73817b70a29f;2017-01-25T08:45:12+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;9b331997cab1cf4476a42056e66f6b70f2d27bbb;2012-03-29T22:32:05+0300;OOZIE-2619;
+b4c75a3c64db7c1d84dbc3485e0e73817b70a29f;2017-01-25T08:45:12+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-2619;
 b4c75a3c64db7c1d84dbc3485e0e73817b70a29f;2017-01-25T08:45:12+0200;release-log.txt;;;OOZIE-2619;Ignored file type
 2712526de886647a262c2f9ae94b27805fb14d5e;2017-01-23T19:17:18+0200;release-log.txt;;;OOZIE-2776;Ignored file type
 2712526de886647a262c2f9ae94b27805fb14d5e;2017-01-23T19:17:18+0200;sharelib/hive/src/main/java/org/apache/oozie/action/hadoop/HiveMain.java;;;OOZIE-2776;No changed lines, only additions
@@ -1697,7 +1697,7 @@ abea46ac340e3306bd16e4bacdfd529ec2acc82d;2016-09-13T02:09:55+0300;core/src/main/
 abea46ac340e3306bd16e4bacdfd529ec2acc82d;2016-09-13T02:09:55+0300;release-log.txt;;;OOZIE-2653;Ignored file type
 878cb04621524e0033d58cff0848dc5a389449e6;2016-09-01T01:06:26+0300;core/src/test/java/org/apache/oozie/command/coord/TestCoordActionsKillXCommand.java;;;OOZIE-2615;No changed lines, only additions
 878cb04621524e0033d58cff0848dc5a389449e6;2016-09-01T01:06:26+0300;release-log.txt;;;OOZIE-2615;Ignored file type
-4f63e9f6688c4210e0dd1049a1a1661d4d97f31f;2016-08-31T13:47:44+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-2243;No changed lines, only additions
+4f63e9f6688c4210e0dd1049a1a1661d4d97f31f;2016-08-31T13:47:44+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-2243;
 4f63e9f6688c4210e0dd1049a1a1661d4d97f31f;2016-08-31T13:47:44+0300;core/src/main/java/org/apache/oozie/action/hadoop/LauncherMapperHelper.java;3e20533b0fc75ee91ed7e6bad9eff07a63dba35c;2015-04-27T08:20:45+0300;OOZIE-2243;
 4f63e9f6688c4210e0dd1049a1a1661d4d97f31f;2016-08-31T13:47:44+0300;core/src/main/java/org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java;3e20533b0fc75ee91ed7e6bad9eff07a63dba35c;2015-04-27T08:20:45+0300;OOZIE-2243;
 4f63e9f6688c4210e0dd1049a1a1661d4d97f31f;2016-08-31T13:47:44+0300;core/src/test/java/org/apache/hadoop/examples/SleepJob.java;cd7e4d6ad7374f63d43c930d806790931c3311eb;2013-06-11T19:56:40+0300;OOZIE-2243;
@@ -1762,7 +1762,7 @@ bec42a030794345cc7464e9d2cd521f1bbe36137;2016-08-11T22:33:52+0300;docs/src/site/
 bec42a030794345cc7464e9d2cd521f1bbe36137;2016-08-11T22:33:52+0300;release-log.txt;;;OOZIE-2508;Ignored file type
 843ecda3a94adb5d9e9e20347099780bb128513b;2016-08-11T06:41:30+0300;docs/src/site/twiki/WorkflowFunctionalSpec.twiki;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-2628;
 843ecda3a94adb5d9e9e20347099780bb128513b;2016-08-11T06:41:30+0300;release-log.txt;;;OOZIE-2628;Ignored file type
-eba0f0365f28604a73229a941a4b2e3e4c566c46;2016-08-05T23:15:38+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-2623;No changed lines, only additions
+eba0f0365f28604a73229a941a4b2e3e4c566c46;2016-08-05T23:15:38+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-2623;
 eba0f0365f28604a73229a941a4b2e3e4c566c46;2016-08-05T23:15:38+0300;core/src/main/java/org/apache/oozie/action/hadoop/LauncherMapperHelper.java;04339dfe04bf67c52da42672e369642ea2e471b9;2013-06-10T23:15:11+0300;OOZIE-2623;
 eba0f0365f28604a73229a941a4b2e3e4c566c46;2016-08-05T23:15:38+0300;release-log.txt;;;OOZIE-2623;Ignored file type
 eba0f0365f28604a73229a941a4b2e3e4c566c46;2016-08-05T23:15:38+0300;sharelib/oozie/src/main/java/org/apache/oozie/action/hadoop/OozieLauncherOutputCommitter.java;;;OOZIE-2623;No changed lines, only additions
@@ -1806,7 +1806,7 @@ cd08523b16b4bdef1324a6ac278f266d1b001786;2016-08-03T23:46:15+0300;release-log.tx
 99a3df568d182e75751126aac5fe8b63d876e64f;2016-08-02T21:06:18+0300;release-log.txt;;;OOZIE-2440;Ignored file type
 2730030624b46e0d6ffe869f7ccf3207173681e3;2016-07-31T07:28:25+0300;release-log.txt;;;OOZIE-2539;Ignored file type
 2730030624b46e0d6ffe869f7ccf3207173681e3;2016-07-31T07:28:25+0300;sharelib/hive/src/main/java/org/apache/oozie/action/hadoop/HiveMain.java;80a14a8ba1f2f3075d32fe2f445d7b0d37c18fbf;2014-01-02T20:05:46+0200;OOZIE-2539;
-9ca2aa4f21fa68ff34a9b1a52c5ac8a177b5a9a4;2016-07-26T19:55:06+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-2430;
+9ca2aa4f21fa68ff34a9b1a52c5ac8a177b5a9a4;2016-07-26T19:55:06+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-2430;
 9ca2aa4f21fa68ff34a9b1a52c5ac8a177b5a9a4;2016-07-26T19:55:06+0300;sharelib/hive/src/main/java/org/apache/oozie/action/hadoop/HiveMain.java;0570455f4c582f4efe4e10ecf9dcd142c2f4b259;2011-11-30T01:11:37+0200;OOZIE-2430;
 9ca2aa4f21fa68ff34a9b1a52c5ac8a177b5a9a4;2016-07-26T19:55:06+0300;sharelib/pig/src/main/java/org/apache/oozie/action/hadoop/PigMain.java;;;OOZIE-2430;
 9ca2aa4f21fa68ff34a9b1a52c5ac8a177b5a9a4;2016-07-26T19:55:06+0300;sharelib/pig/src/main/java/org/apache/oozie/action/hadoop/PigMainWithOldAPI.java;b5b55891968196166e65b52a733fe61e56df9f77;2011-09-02T03:37:54+0300;OOZIE-2430;
@@ -1876,7 +1876,7 @@ e882a05a5ff21d8e76e9bc2ca3c09b447efb461d;2016-06-09T05:01:36+0300;release-log.tx
 41312e9564390bc499e76c8770c9b5d4c1be02d5;2016-06-07T19:59:01+0300;core/src/test/java/org/apache/oozie/command/bundle/TestBundleSubmitXCommand.java;;;OOZIE-2522;No changed lines, only additions
 41312e9564390bc499e76c8770c9b5d4c1be02d5;2016-06-07T19:59:01+0300;core/src/test/java/org/apache/oozie/service/TestRecoveryService.java;;;OOZIE-2522;No changed lines, only additions
 41312e9564390bc499e76c8770c9b5d4c1be02d5;2016-06-07T19:59:01+0300;release-log.txt;;;OOZIE-2522;Ignored file type
-f83f484a1a34c9446cf43ba7d627aefabaf58921;2016-06-07T18:32:13+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-2553;No changed lines, only additions
+f83f484a1a34c9446cf43ba7d627aefabaf58921;2016-06-07T18:32:13+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-2553;
 f83f484a1a34c9446cf43ba7d627aefabaf58921;2016-06-07T18:32:13+0300;core/src/main/java/org/apache/oozie/workflow/lite/NodeDef.java;afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;OOZIE-2553;
 f83f484a1a34c9446cf43ba7d627aefabaf58921;2016-06-07T18:32:13+0300;core/src/test/java/org/apache/oozie/action/hadoop/ActionExecutorTestCase.java;8ace8e29c05bedb45a9d38b77fce042d18283120;2011-09-02T03:37:27+0300;OOZIE-2553;
 f83f484a1a34c9446cf43ba7d627aefabaf58921;2016-06-07T18:32:13+0300;core/src/test/java/org/apache/oozie/action/hadoop/TestJavaActionExecutor.java;8ace8e29c05bedb45a9d38b77fce042d18283120;2011-09-02T03:37:27+0300;OOZIE-2553;
@@ -1971,7 +1971,7 @@ e9d3d3cb269ed954d38de0306929e4857d650301;2016-05-10T19:48:13+0300;release-log.tx
 e9d3d3cb269ed954d38de0306929e4857d650301;2016-05-10T19:48:13+0300;sharelib/distcp/src/main/java/org/apache/oozie/action/hadoop/DistcpMain.java;;;OOZIE-2471;No changed lines, only additions
 e9d3d3cb269ed954d38de0306929e4857d650301;2016-05-10T19:48:13+0300;webapp/src/main/webapp/oozie-console.js;42cebf6e224d07c2bb698a2c10e8c6377898e42b;2015-03-11T00:03:53+0200;OOZIE-2471;
 fafb5cf0317d34d83fd16768f5b438ae437a6d41;2016-04-22T03:47:05+0300;sharelib/spark/src/test/java/org/apache/oozie/action/hadoop/TestSparkOptionsSplitter.java;;;OOZIE-2391;No changed lines, only additions
-78c8699693408dcbcf6892ecbb3ee1037908d943;2016-04-22T02:03:38+0300;core/src/main/java/org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-2511;
+78c8699693408dcbcf6892ecbb3ee1037908d943;2016-04-22T02:03:38+0300;core/src/main/java/org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java;30cd440990e99c1f1ad8b9a7bea66913152cb370;2012-03-13T00:55:41+0200;OOZIE-2511;
 78c8699693408dcbcf6892ecbb3ee1037908d943;2016-04-22T02:03:38+0300;core/src/test/java/org/apache/oozie/action/oozie/TestSubWorkflowActionExecutor.java;0f086d41b8f274abe0959705f76fa3225ab5ff2e;2016-01-10T02:02:12+0200;OOZIE-2511;
 78c8699693408dcbcf6892ecbb3ee1037908d943;2016-04-22T02:03:38+0300;release-log.txt;;;OOZIE-2511;Ignored file type
 a7f39456ebff7db88ccc5f94202e5bbca8c391d1;2016-04-16T03:46:54+0300;docs/src/site/twiki/DG_SparkActionExtension.twiki;f0bceb0bc94e38cc4bf3818400855818b74c2655;2015-04-11T00:03:20+0300;OOZIE-2391;
@@ -2010,7 +2010,7 @@ b8c6b702b0e5e120f8231448dbc32ea01443a150;2016-03-18T03:32:24+0200;release-log.tx
 d04b243294021fa10d6bccc50e7151d0e7aefba6;2016-03-03T19:56:09+0200;core/src/main/java/org/apache/oozie/dependency/FSURIHandler.java;;;OOZIE-2246;No changed lines, only additions
 d04b243294021fa10d6bccc50e7151d0e7aefba6;2016-03-03T19:56:09+0200;core/src/test/java/org/apache/oozie/command/coord/TestCoordActionInputCheckXCommand.java;;;OOZIE-2246;No changed lines, only additions
 d04b243294021fa10d6bccc50e7151d0e7aefba6;2016-03-03T19:56:09+0200;release-log.txt;;;OOZIE-2246;Ignored file type
-6aa84761759b8433115b040f5e133791b23d0ca6;2016-03-03T19:53:18+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-2446;No changed lines, only additions
+6aa84761759b8433115b040f5e133791b23d0ca6;2016-03-03T19:53:18+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-2446;
 6aa84761759b8433115b040f5e133791b23d0ca6;2016-03-03T19:53:18+0200;core/src/test/java/org/apache/oozie/action/hadoop/TestJavaActionExecutor.java;;;OOZIE-2446;No changed lines, only additions
 6aa84761759b8433115b040f5e133791b23d0ca6;2016-03-03T19:53:18+0200;release-log.txt;;;OOZIE-2446;Ignored file type
 bda196b6089baaa764a0311b5f1fe6ee4621d462;2016-02-19T03:16:46+0200;client/src/main/java/org/apache/oozie/cli/OozieCLI.java;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-2400;
@@ -2052,7 +2052,7 @@ ff3c2956dbbda7cad10c18a6d9df5ed745fcf130;2016-01-26T22:53:04+0200;release-log.tx
 70a5ffe4b029896df81aa49cd08bbaf9b0355a36;2016-01-26T20:10:01+0200;release-log.txt;;;OOZIE-1922;Ignored file type
 9c365b5691439eb0e982b3a915c1a842270b24c4;2016-01-25T23:06:32+0200;core/src/test/java/org/apache/oozie/command/TestPurgeXCommand.java;4ef6911d20f28103f9b166076e1c84fa20fdb851;2013-04-05T20:25:08+0300;OOZIE-2432;
 9c365b5691439eb0e982b3a915c1a842270b24c4;2016-01-25T23:06:32+0200;release-log.txt;;;OOZIE-2432;Ignored file type
-cdaa66bd7ecc10ab94b0a1bbb8bb2367d11f32b4;2016-01-25T22:07:02+0200;core/src/main/java/org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java;;;OOZIE-2434;No changed lines, only additions
+cdaa66bd7ecc10ab94b0a1bbb8bb2367d11f32b4;2016-01-25T22:07:02+0200;core/src/main/java/org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java;30cd440990e99c1f1ad8b9a7bea66913152cb370;2012-03-13T00:55:41+0200;OOZIE-2434;
 cdaa66bd7ecc10ab94b0a1bbb8bb2367d11f32b4;2016-01-25T22:07:02+0200;release-log.txt;;;OOZIE-2434;Ignored file type
 1dabb80b148dc9ff24bd931f1ac4ee8396e56475;2016-01-25T22:02:54+0200;core/src/main/java/org/apache/oozie/BundleEngine.java;3fe9c2a897d29cbe6272c53caa02a43065b5db18;2015-04-10T03:33:58+0300;OOZIE-2438;
 1dabb80b148dc9ff24bd931f1ac4ee8396e56475;2016-01-25T22:02:54+0200;core/src/main/java/org/apache/oozie/CoordinatorEngine.java;3fe9c2a897d29cbe6272c53caa02a43065b5db18;2015-04-10T03:33:58+0300;OOZIE-2438;
@@ -2085,7 +2085,7 @@ ee8710bdeb05030bcd10f76ed8e7a82c78c95553;2016-01-14T20:23:07+0200;release-log.tx
 b12a9f85e046bf29c061745502d79c25dd34421a;2016-01-14T01:24:21+0200;core/src/test/java/org/apache/oozie/service/TestEventHandlerService.java;;;OOZIE-2428;No changed lines, only additions
 b12a9f85e046bf29c061745502d79c25dd34421a;2016-01-14T01:24:21+0200;core/src/test/java/org/apache/oozie/sla/TestSLAService.java;;;OOZIE-2428;No changed lines, only additions
 b12a9f85e046bf29c061745502d79c25dd34421a;2016-01-14T01:24:21+0200;release-log.txt;;;OOZIE-2428;Ignored file type
-0f086d41b8f274abe0959705f76fa3225ab5ff2e;2016-01-10T02:02:12+0200;core/src/main/java/org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java;;;OOZIE-2030;No changed lines, only additions
+0f086d41b8f274abe0959705f76fa3225ab5ff2e;2016-01-10T02:02:12+0200;core/src/main/java/org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java;30cd440990e99c1f1ad8b9a7bea66913152cb370;2012-03-13T00:55:41+0200;OOZIE-2030;
 0f086d41b8f274abe0959705f76fa3225ab5ff2e;2016-01-10T02:02:12+0200;core/src/main/java/org/apache/oozie/workflow/lite/LiteWorkflowAppParser.java;6f4e6dacb090c38e3cc1e328898664188ab3c161;2012-07-16T19:53:54+0300;OOZIE-2030;
 0f086d41b8f274abe0959705f76fa3225ab5ff2e;2016-01-10T02:02:12+0200;core/src/test/java/org/apache/oozie/action/oozie/TestSubWorkflowActionExecutor.java;;;OOZIE-2030;
 0f086d41b8f274abe0959705f76fa3225ab5ff2e;2016-01-10T02:02:12+0200;release-log.txt;;;OOZIE-2030;Ignored file type
@@ -2097,7 +2097,7 @@ ad2fa21e3b8490da3f7f741bd28e0374895d7253;2015-12-22T00:06:22+0200;core/src/main/
 ad2fa21e3b8490da3f7f741bd28e0374895d7253;2015-12-22T00:06:22+0200;core/src/test/java/org/apache/oozie/command/coord/TestAbandonedCoordChecker.java;d1d14f998700f1279a023de21e0bdbc08c6336d3;2014-10-15T00:03:06+0300;OOZIE-2407;
 ad2fa21e3b8490da3f7f741bd28e0374895d7253;2015-12-22T00:06:22+0200;release-log.txt;;;OOZIE-2407;Ignored file type
 92b3882805166604b9fd7287b1a90c77939064bd;2015-12-07T20:51:55+0200;core/src/main/java/org/apache/oozie/action/hadoop/CredentialsProvider.java;;;OOZIE-2413;No changed lines, only additions
-92b3882805166604b9fd7287b1a90c77939064bd;2015-12-07T20:51:55+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-2413;No changed lines, only additions
+92b3882805166604b9fd7287b1a90c77939064bd;2015-12-07T20:51:55+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-2413;
 08fa157df4eac151be32d9aa5cec5cd4c88fe574;2015-11-25T21:22:03+0200;core/src/main/java/org/apache/oozie/CoordinatorActionBean.java;;;OOZIE-2397;No changed lines, only additions
 08fa157df4eac151be32d9aa5cec5cd4c88fe574;2015-11-25T21:22:03+0200;core/src/main/java/org/apache/oozie/CoordinatorJobBean.java;;;OOZIE-2397;No changed lines, only additions
 08fa157df4eac151be32d9aa5cec5cd4c88fe574;2015-11-25T21:22:03+0200;core/src/main/java/org/apache/oozie/command/coord/CoordActionInputCheckXCommand.java;2fc2fc9ec5eb9d14edc449284c9e07090a8ece9a;2014-11-06T03:19:02+0200;OOZIE-2397;
@@ -2123,7 +2123,7 @@ ad2fa21e3b8490da3f7f741bd28e0374895d7253;2015-12-22T00:06:22+0200;release-log.tx
 2d03112213c46b2fe3180b4c0a1cbe00f26e03cb;2015-11-18T03:54:16+0200;release-log.txt;;;OOZIE-2168;Ignored file type
 4c898349cb0bbf73d9d2b8c91ca72c6520c49a6f;2015-10-30T22:33:13+0200;docs/src/site/twiki/WorkflowFunctionalSpec.twiki;1292c7f8bb130132e82dea57e07adf3163de9a12;2014-09-26T22:50:06+0300;OOZIE-2303;
 4c898349cb0bbf73d9d2b8c91ca72c6520c49a6f;2015-10-30T22:33:13+0200;release-log.txt;;;OOZIE-2303;Ignored file type
-bf8329c2f47c249c1907581dd25513c755fb2d0e;2015-10-17T03:46:10+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-2314;
+bf8329c2f47c249c1907581dd25513c755fb2d0e;2015-10-17T03:46:10+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-2314;
 bf8329c2f47c249c1907581dd25513c755fb2d0e;2015-10-17T03:46:10+0300;core/src/main/java/org/apache/oozie/action/hadoop/LauncherMapperHelper.java;e86b96d45cc7af706a0e0f5bd1bf36d760266c8e;2015-04-27T12:40:06+0300;OOZIE-2314;
 bf8329c2f47c249c1907581dd25513c755fb2d0e;2015-10-17T03:46:10+0300;core/src/main/java/org/apache/oozie/command/coord/CoordActionStartXCommand.java;;;OOZIE-2314;No changed lines, only additions
 bf8329c2f47c249c1907581dd25513c755fb2d0e;2015-10-17T03:46:10+0300;core/src/test/java/org/apache/oozie/action/hadoop/TestLauncher.java;;;OOZIE-2314;No changed lines, only additions
@@ -2184,7 +2184,7 @@ e0ada0ab7c5d0747d5fdb7b262d90a59a88f5d20;2015-09-15T20:02:25+0300;core/src/main/
 ea434d2f812b6b9a1aed4537691953728bba13a2;2015-09-03T08:07:57+0300;pom.xml;05027479a7ec0324e21b12e8ccdb471808d2ac9d;2014-12-22T23:14:29+0200;OOZIE-2350;
 ea434d2f812b6b9a1aed4537691953728bba13a2;2015-09-03T08:07:57+0300;release-log.txt;;;OOZIE-2350;Ignored file type
 ea434d2f812b6b9a1aed4537691953728bba13a2;2015-09-03T08:07:57+0300;sharelib/spark/src/main/java/org.apache.oozie.action.hadoop/SparkMain.java;5a598039a8aeabcf46d0f1d13542c94ff9b8475f;2015-09-01T02:32:47+0300;OOZIE-2350;
-16234592b76b89aa1e7f5359e00d28ad138fe1ab;2015-09-02T00:45:16+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-2347;No changed lines, only additions
+16234592b76b89aa1e7f5359e00d28ad138fe1ab;2015-09-02T00:45:16+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-2347;
 16234592b76b89aa1e7f5359e00d28ad138fe1ab;2015-09-02T00:45:16+0300;core/src/main/java/org/apache/oozie/service/HadoopAccessorService.java;b898d0392297061251c82428316ab2d4897762ea;2011-09-02T03:31:41+0300;OOZIE-2347;
 16234592b76b89aa1e7f5359e00d28ad138fe1ab;2015-09-02T00:45:16+0300;core/src/main/java/org/apache/oozie/service/ShareLibService.java;87a6d0536149c9e84a29490b78ee49d743bad8d1;2015-01-28T02:53:50+0200;OOZIE-2347;
 16234592b76b89aa1e7f5359e00d28ad138fe1ab;2015-09-02T00:45:16+0300;core/src/main/java/org/apache/oozie/util/JobUtils.java;e62289439e3ea5aae023077d03894335de8829b9;2014-11-25T12:31:11+0200;OOZIE-2347;
@@ -2201,7 +2201,7 @@ ea434d2f812b6b9a1aed4537691953728bba13a2;2015-09-03T08:07:57+0300;sharelib/spark
 6b61d878e24653dbce2064a44e03072e8fe1e9f5;2015-08-28T23:30:47+0300;core/src/main/resources/oozie-default.xml;2fc2fc9ec5eb9d14edc449284c9e07090a8ece9a;2014-11-06T03:19:02+0200;OOZIE-2322;
 6b61d878e24653dbce2064a44e03072e8fe1e9f5;2015-08-28T23:30:47+0300;core/src/test/java/org/apache/oozie/service/TestConfigurationService.java;2fc2fc9ec5eb9d14edc449284c9e07090a8ece9a;2014-11-06T03:19:02+0200;OOZIE-2322;
 6b61d878e24653dbce2064a44e03072e8fe1e9f5;2015-08-28T23:30:47+0300;release-log.txt;;;OOZIE-2322;Ignored file type
-86e0af62658d11142d68d3b9c939ef7191f9934c;2015-08-18T21:24:34+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-2329;No changed lines, only additions
+86e0af62658d11142d68d3b9c939ef7191f9934c;2015-08-18T21:24:34+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-2329;
 86e0af62658d11142d68d3b9c939ef7191f9934c;2015-08-18T21:24:34+0300;core/src/main/resources/oozie-default.xml;;;OOZIE-2329;No changed lines, only additions
 86e0af62658d11142d68d3b9c939ef7191f9934c;2015-08-18T21:24:34+0300;core/src/test/java/org/apache/oozie/action/hadoop/TestJavaActionExecutor.java;30cd440990e99c1f1ad8b9a7bea66913152cb370;2012-03-13T00:55:41+0200;OOZIE-2329;
 86e0af62658d11142d68d3b9c939ef7191f9934c;2015-08-18T21:24:34+0300;hadooplibs/hadoop-utils-2/src/main/java/org/apache/oozie/action/hadoop/LauncherMainHadoopUtils.java;e86b96d45cc7af706a0e0f5bd1bf36d760266c8e;2015-04-27T12:40:06+0300;OOZIE-2329;
@@ -2286,7 +2286,7 @@ fcbab934096ff135e2001253f7208fa0405c1367;2015-06-13T02:53:05+0300;core/src/main/
 fcbab934096ff135e2001253f7208fa0405c1367;2015-06-13T02:53:05+0300;core/src/main/java/org/apache/oozie/action/control/ControlNodeActionExecutor.java;;;OOZIE-2178;No changed lines, only additions
 fcbab934096ff135e2001253f7208fa0405c1367;2015-06-13T02:53:05+0300;core/src/main/java/org/apache/oozie/action/hadoop/FsActionExecutor.java;;;OOZIE-2178;No changed lines, only additions
 fcbab934096ff135e2001253f7208fa0405c1367;2015-06-13T02:53:05+0300;core/src/main/java/org/apache/oozie/action/hadoop/HCatCredentialHelper.java;;;OOZIE-2178;No changed lines, only additions
-fcbab934096ff135e2001253f7208fa0405c1367;2015-06-13T02:53:05+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-2178;No changed lines, only additions
+fcbab934096ff135e2001253f7208fa0405c1367;2015-06-13T02:53:05+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-2178;
 fcbab934096ff135e2001253f7208fa0405c1367;2015-06-13T02:53:05+0300;core/src/main/java/org/apache/oozie/action/ssh/SshActionExecutor.java;;;OOZIE-2178;No changed lines, only additions
 fcbab934096ff135e2001253f7208fa0405c1367;2015-06-13T02:53:05+0300;core/src/main/java/org/apache/oozie/client/rest/BulkResponseImpl.java;;;OOZIE-2178;No changed lines, only additions
 fcbab934096ff135e2001253f7208fa0405c1367;2015-06-13T02:53:05+0300;core/src/main/java/org/apache/oozie/command/BulkJobsXCommand.java;;;OOZIE-2178;No changed lines, only additions
@@ -2442,7 +2442,7 @@ b1f5cf02758a8ec634302025bcc93fbbe88b5fcb;2015-04-28T23:42:02+0300;core/src/test/
 b1f5cf02758a8ec634302025bcc93fbbe88b5fcb;2015-04-28T23:42:02+0300;release-log.txt;;;OOZIE-2012;Ignored file type
 3e20533b0fc75ee91ed7e6bad9eff07a63dba35c;2015-04-27T08:20:45+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;2545262f037554849e3dd0069290d0b6aed37cb6;2014-03-06T08:11:41+0200;OOZIE-2129;
 3e20533b0fc75ee91ed7e6bad9eff07a63dba35c;2015-04-27T08:20:45+0300;core/src/main/java/org/apache/oozie/action/hadoop/LauncherMapperHelper.java;2545262f037554849e3dd0069290d0b6aed37cb6;2014-03-06T08:11:41+0200;OOZIE-2129;
-3e20533b0fc75ee91ed7e6bad9eff07a63dba35c;2015-04-27T08:20:45+0300;core/src/main/java/org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java;;;OOZIE-2129;No changed lines, only additions
+3e20533b0fc75ee91ed7e6bad9eff07a63dba35c;2015-04-27T08:20:45+0300;core/src/main/java/org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java;30cd440990e99c1f1ad8b9a7bea66913152cb370;2012-03-13T00:55:41+0200;OOZIE-2129;
 3e20533b0fc75ee91ed7e6bad9eff07a63dba35c;2015-04-27T08:20:45+0300;core/src/main/java/org/apache/oozie/command/wf/ActionStartXCommand.java;;;OOZIE-2129;No changed lines, only additions
 3e20533b0fc75ee91ed7e6bad9eff07a63dba35c;2015-04-27T08:20:45+0300;hadooplibs/hadoop-utils-0.23/src/main/java/org/apache/oozie/action/hadoop/LauncherMainHadoopUtils.java;2545262f037554849e3dd0069290d0b6aed37cb6;2014-03-06T08:11:41+0200;OOZIE-2129;
 3e20533b0fc75ee91ed7e6bad9eff07a63dba35c;2015-04-27T08:20:45+0300;hadooplibs/hadoop-utils-1/src/main/java/org/apache/oozie/action/hadoop/LauncherMainHadoopUtils.java;2545262f037554849e3dd0069290d0b6aed37cb6;2014-03-06T08:11:41+0200;OOZIE-2129;
@@ -2634,7 +2634,7 @@ b5a4e06ba0ad5e0ac63bd876223182cfbd2a219c;2015-02-04T22:14:24+0200;core/src/main/
 b5a4e06ba0ad5e0ac63bd876223182cfbd2a219c;2015-02-04T22:14:24+0200;core/src/main/resources/oozie-default.xml;;;OOZIE-2127;No changed lines, only additions
 b5a4e06ba0ad5e0ac63bd876223182cfbd2a219c;2015-02-04T22:14:24+0200;core/src/test/java/org/apache/oozie/service/TestRecoveryService.java;5322af0e10cfb4032736afe6559b6b554cb4e7fe;2012-03-09T07:03:40+0200;OOZIE-2127;
 b5a4e06ba0ad5e0ac63bd876223182cfbd2a219c;2015-02-04T22:14:24+0200;release-log.txt;;;OOZIE-2127;Ignored file type
-5ab4c25156e55d98dce03b68bfb6c74ab805195f;2015-02-04T02:17:44+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-2123;No changed lines, only additions
+5ab4c25156e55d98dce03b68bfb6c74ab805195f;2015-02-04T02:17:44+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-2123;
 5ab4c25156e55d98dce03b68bfb6c74ab805195f;2015-02-04T02:17:44+0200;core/src/test/java/org/apache/oozie/action/hadoop/TestJavaActionExecutor.java;;;OOZIE-2123;No changed lines, only additions
 5ab4c25156e55d98dce03b68bfb6c74ab805195f;2015-02-04T02:17:44+0200;release-log.txt;;;OOZIE-2123;Ignored file type
 c6afe1c1135f01f6d8ffb45311a6cf0679503220;2015-02-03T22:06:36+0200;client/src/main/java/org/apache/oozie/cli/OozieCLI.java;9edb556a109e64bf836a00328e93af6f7e576a43;2012-08-03T10:45:14+0300;OOZIE-2118;
@@ -2648,7 +2648,7 @@ c6afe1c1135f01f6d8ffb45311a6cf0679503220;2015-02-03T22:06:36+0200;core/src/test/
 c6afe1c1135f01f6d8ffb45311a6cf0679503220;2015-02-03T22:06:36+0200;docs/src/site/twiki/DG_CommandLineTool.twiki;6039bc98bb8ecbc838b596625b9e19c475d5d8bf;2013-04-22T21:14:19+0300;OOZIE-2118;
 c6afe1c1135f01f6d8ffb45311a6cf0679503220;2015-02-03T22:06:36+0200;docs/src/site/twiki/WebServicesAPI.twiki;;;OOZIE-2118;No changed lines, only additions
 c6afe1c1135f01f6d8ffb45311a6cf0679503220;2015-02-03T22:06:36+0200;release-log.txt;;;OOZIE-2118;Ignored file type
-e589521a56cf758ae26c6b73010f388e47ad61f1;2015-02-02T20:08:14+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;232ade128dc974254bd280e1bb9ebcc53c8c32a3;2012-07-17T19:45:25+0300;OOZIE-2110;
+e589521a56cf758ae26c6b73010f388e47ad61f1;2015-02-02T20:08:14+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-2110;
 e589521a56cf758ae26c6b73010f388e47ad61f1;2015-02-02T20:08:14+0200;core/src/main/java/org/apache/oozie/action/hadoop/MapReduceActionExecutor.java;b898d0392297061251c82428316ab2d4897762ea;2011-09-02T03:31:41+0300;OOZIE-2110;
 e589521a56cf758ae26c6b73010f388e47ad61f1;2015-02-02T20:08:14+0200;core/src/main/java/org/apache/oozie/action/hadoop/ShellActionExecutor.java;a1859cf148cf3b0fa00da1727a6e927d5b928262;2011-12-09T10:14:59+0200;OOZIE-2110;
 e589521a56cf758ae26c6b73010f388e47ad61f1;2015-02-02T20:08:14+0200;core/src/test/java/org/apache/oozie/action/hadoop/TestJavaActionExecutor.java;;;OOZIE-2110;No changed lines, only additions
@@ -2794,7 +2794,7 @@ aa7bba5d1927756c0a62328763a714c41485c42a;2014-11-11T04:09:47+0200;core/src/test/
 aa7bba5d1927756c0a62328763a714c41485c42a;2014-11-11T04:09:47+0200;core/src/test/java/org/apache/oozie/workflow/lite/TestLiteWorkflowAppParser.java;b70b691a5e0a976339ec52b0320b9dd8b4aa24dc;2012-12-19T20:21:28+0200;OOZIE-2043;
 aa7bba5d1927756c0a62328763a714c41485c42a;2014-11-11T04:09:47+0200;release-log.txt;;;OOZIE-2043;Ignored file type
 aa7bba5d1927756c0a62328763a714c41485c42a;2014-11-11T04:09:47+0200;sharelib/hcatalog/src/main/java/org/apache/oozie/util/HCatURI.java;426d13fc62ac6aa82e65b09755defdae6baa25cd;2013-02-25T23:42:07+0200;OOZIE-2043;
-b5d409e635dccef2dcf8f1137e754deb20f31461;2014-11-11T00:27:11+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-2045;
+b5d409e635dccef2dcf8f1137e754deb20f31461;2014-11-11T00:27:11+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-2045;
 b5d409e635dccef2dcf8f1137e754deb20f31461;2014-11-11T00:27:11+0200;core/src/main/java/org/apache/oozie/service/ShareLibService.java;e717255bf3b8e5f16f6498bba31f6c3fc43861e2;2014-10-16T03:22:32+0300;OOZIE-2045;
 b5d409e635dccef2dcf8f1137e754deb20f31461;2014-11-11T00:27:11+0200;core/src/test/java/org/apache/oozie/service/TestShareLibService.java;e717255bf3b8e5f16f6498bba31f6c3fc43861e2;2014-10-16T03:22:32+0300;OOZIE-2045;
 b5d409e635dccef2dcf8f1137e754deb20f31461;2014-11-11T00:27:11+0200;hadooplibs/hadoop-utils-0.23/src/main/java/org/apache/oozie/hadoop/utils/HadoopShims.java;;;OOZIE-2045;No changed lines, only additions
@@ -2802,7 +2802,7 @@ b5d409e635dccef2dcf8f1137e754deb20f31461;2014-11-11T00:27:11+0200;hadooplibs/had
 b5d409e635dccef2dcf8f1137e754deb20f31461;2014-11-11T00:27:11+0200;hadooplibs/hadoop-utils-2/src/main/java/org/apache/oozie/hadoop/utils/HadoopShims.java;;;OOZIE-2045;No changed lines, only additions
 b5d409e635dccef2dcf8f1137e754deb20f31461;2014-11-11T00:27:11+0200;hadooplibs/hadoop-utils-3/src/main/java/org/apache/oozie/hadoop/utils/HadoopShims.java;;;OOZIE-2045;No changed lines, only additions
 b5d409e635dccef2dcf8f1137e754deb20f31461;2014-11-11T00:27:11+0200;release-log.txt;;;OOZIE-2045;Ignored file type
-a40535869f406a9ca286565bd3c49a6d6a3931a6;2014-11-10T23:00:08+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-1385;
+a40535869f406a9ca286565bd3c49a6d6a3931a6;2014-11-10T23:00:08+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-1385;
 a40535869f406a9ca286565bd3c49a6d6a3931a6;2014-11-10T23:00:08+0200;core/src/main/resources/oozie-default.xml;df4b00b2df47358632f28d9115ba0905b5389cb1;2013-05-02T20:34:39+0300;OOZIE-1385;
 a40535869f406a9ca286565bd3c49a6d6a3931a6;2014-11-10T23:00:08+0200;core/src/test/java/org/apache/oozie/action/hadoop/TestJavaActionExecutor.java;;;OOZIE-1385;
 a40535869f406a9ca286565bd3c49a6d6a3931a6;2014-11-10T23:00:08+0200;core/src/test/java/org/apache/oozie/action/hadoop/TestShellActionExecutor.java;;;OOZIE-1385;
@@ -3056,7 +3056,7 @@ bdd4ef5c1855436b94717a871a88b6cabe389a22;2014-09-04T22:09:08+0300;release-log.tx
 1507cc2b97add380009aebb6c69207b708a996d2;2014-09-04T20:50:55+0300;core/src/test/java/org/apache/oozie/test/XDataTestCase.java;15159e378dfdae35b3b5146ea284e33498af883c;2011-09-02T03:36:04+0300;OOZIE-1941;
 1507cc2b97add380009aebb6c69207b708a996d2;2014-09-04T20:50:55+0300;core/src/test/resources/bundle-submit-job.xml;91d78abcd2e33252010cf7614faccdb996048d0b;2012-05-22T07:02:50+0300;OOZIE-1941;
 1507cc2b97add380009aebb6c69207b708a996d2;2014-09-04T20:50:55+0300;release-log.txt;;;OOZIE-1941;Ignored file type
-a94011bcb0717c73cd3aff2f1a2c017f416e345a;2014-08-30T00:48:37+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;6fc6461693818153fdffabadd10e4a8947307163;2011-10-06T23:37:53+0300;OOZIE-1945;
+a94011bcb0717c73cd3aff2f1a2c017f416e345a;2014-08-30T00:48:37+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-1945;
 a94011bcb0717c73cd3aff2f1a2c017f416e345a;2014-08-30T00:48:37+0300;release-log.txt;;;OOZIE-1945;Ignored file type
 cbcc64b334bde6f361ccfb78185452a1acbf9dc8;2014-08-29T01:59:07+0300;core/src/main/java/org/apache/oozie/sla/SLACalculatorMemory.java;7bc738989a5811fdd206b827f2c7acd428d8c4b5;2014-07-17T02:20:12+0300;OOZIE-1984;
 cbcc64b334bde6f361ccfb78185452a1acbf9dc8;2014-08-29T01:59:07+0300;release-log.txt;;;OOZIE-1984;Ignored file type
@@ -3104,7 +3104,7 @@ fa2a205be9c63867fd35903ff9bfceb65c632912;2014-08-18T09:24:13+0300;core/src/main/
 fa2a205be9c63867fd35903ff9bfceb65c632912;2014-08-18T09:24:13+0300;core/src/main/java/org/apache/oozie/command/wf/ReRunXCommand.java;80b0a19373685d9f7273cc444a917daf2ae3f60d;2011-09-02T03:35:43+0300;OOZIE-1939;
 fa2a205be9c63867fd35903ff9bfceb65c632912;2014-08-18T09:24:13+0300;core/src/main/java/org/apache/oozie/command/wf/ResumeXCommand.java;80b0a19373685d9f7273cc444a917daf2ae3f60d;2011-09-02T03:35:43+0300;OOZIE-1939;
 fa2a205be9c63867fd35903ff9bfceb65c632912;2014-08-18T09:24:13+0300;core/src/main/java/org/apache/oozie/command/wf/SignalXCommand.java;9f16ce1d2fe45e3a783e895c3414d1926c388633;2014-06-10T01:42:50+0300;OOZIE-1939;
-fa2a205be9c63867fd35903ff9bfceb65c632912;2014-08-18T09:24:13+0300;core/src/main/java/org/apache/oozie/command/wf/SubmitHttpXCommand.java;9ee27f9a44ba357dcfe672c666a235418b756a95;2011-09-02T03:35:47+0300;OOZIE-1939;
+fa2a205be9c63867fd35903ff9bfceb65c632912;2014-08-18T09:24:13+0300;core/src/main/java/org/apache/oozie/command/wf/SubmitHttpXCommand.java;30cd440990e99c1f1ad8b9a7bea66913152cb370;2012-03-13T00:55:41+0200;OOZIE-1939;
 fa2a205be9c63867fd35903ff9bfceb65c632912;2014-08-18T09:24:13+0300;core/src/main/java/org/apache/oozie/command/wf/SubmitXCommand.java;cc6b0a9aaee2c11bf0af08490787ab9e341276b6;2012-03-21T08:23:34+0200;OOZIE-1939;
 fa2a205be9c63867fd35903ff9bfceb65c632912;2014-08-18T09:24:13+0300;core/src/main/java/org/apache/oozie/command/wf/SuspendXCommand.java;c9d99f6b46b2311a441e8be9634b63156d7a3ccb;2011-09-02T03:35:40+0300;OOZIE-1939;
 fa2a205be9c63867fd35903ff9bfceb65c632912;2014-08-18T09:24:13+0300;core/src/main/java/org/apache/oozie/service/CallableQueueService.java;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-1939;
@@ -3205,7 +3205,7 @@ bdc41b258f20bb73db554cfad6828de41757225b;2014-07-11T12:48:09+0300;release-log.tx
 7c4c8ecfddc7d5bb160075468eee06a66e52a97c;2014-07-04T00:06:44+0300;core/src/main/java/org/apache/oozie/action/hadoop/LauncherMapperHelper.java;04339dfe04bf67c52da42672e369642ea2e471b9;2013-06-10T23:15:11+0300;OOZIE-1821;
 7c4c8ecfddc7d5bb160075468eee06a66e52a97c;2014-07-04T00:06:44+0300;core/src/main/java/org/apache/oozie/util/IOUtils.java;;;OOZIE-1821;No changed lines, only additions
 7c4c8ecfddc7d5bb160075468eee06a66e52a97c;2014-07-04T00:06:44+0300;release-log.txt;;;OOZIE-1821;Ignored file type
-f1b71a996a2d777cb5ddb54fef119462074da39e;2014-07-01T21:49:41+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-1909;No changed lines, only additions
+f1b71a996a2d777cb5ddb54fef119462074da39e;2014-07-01T21:49:41+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-1909;
 f1b71a996a2d777cb5ddb54fef119462074da39e;2014-07-01T21:49:41+0300;release-log.txt;;;OOZIE-1909;Ignored file type
 92f4079e54a1fad847ca6721f5ef6b72a625a6b2;2014-06-30T19:06:38+0300;release-log.txt;;;OOZIE-1907;Ignored file type
 92f4079e54a1fad847ca6721f5ef6b72a625a6b2;2014-06-30T19:06:38+0300;tools/src/main/java/org/apache/oozie/tools/OozieDBCLI.java;222b014584083f101173bbaecd89649128330854;2014-01-24T20:12:42+0200;OOZIE-1907;
@@ -3386,7 +3386,7 @@ d779344622eae4b3dc1aa950d66010f440daa621;2014-05-13T03:26:17+0300;sharelib/oozie
 6e2e46a98fa59377134ec0f5303ead1b6f1c7532;2014-05-06T20:16:45+0300;release-log.txt;;;OOZIE-1806;Ignored file type
 9c91c814c2929d7d18880800a18b87f6d2e5a683;2014-05-06T20:04:53+0300;release-log.txt;;;OOZIE-1823;Ignored file type
 9c91c814c2929d7d18880800a18b87f6d2e5a683;2014-05-06T20:04:53+0300;tools/src/main/java/org/apache/oozie/tools/OozieSharelibCLI.java;;;OOZIE-1823;No changed lines, only additions
-7c35bec3f4fc9c67540a97f42d99ef7c94f12425;2014-05-01T20:22:18+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-1762;No changed lines, only additions
+7c35bec3f4fc9c67540a97f42d99ef7c94f12425;2014-05-01T20:22:18+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-1762;
 7c35bec3f4fc9c67540a97f42d99ef7c94f12425;2014-05-01T20:22:18+0300;release-log.txt;;;OOZIE-1762;Ignored file type
 7c35bec3f4fc9c67540a97f42d99ef7c94f12425;2014-05-01T20:22:18+0300;webapp/pom.xml;62fd9f7e151bf9e4562b4b3fff3e8d6acc2dddcd;2013-06-14T22:53:49+0300;OOZIE-1762;
 ef513d2853ce943ce3fea6aa6a3f6c9bdec25f63;2014-05-01T20:16:07+0300;core/src/main/java/org/apache/oozie/coord/CoordELFunctions.java;24fedae651b26b0f5fb980e96f26ae39fc92e89f;2013-03-06T00:47:36+0200;OOZIE-1709;
@@ -3536,7 +3536,7 @@ a015a45ee50a23add71ee84e8ef6a6bd00d8aa45;2014-04-04T22:22:38+0300;release-log.tx
 5045f89cf1042721b9f7fd8b070390b8e0afef7e;2014-04-02T04:14:59+0300;core/src/test/java/org/apache/oozie/coord/TestCoordELFunctions.java;;;OOZIE-1725;No changed lines, only additions
 5045f89cf1042721b9f7fd8b070390b8e0afef7e;2014-04-02T04:14:59+0300;core/src/test/java/org/apache/oozie/coord/TestHCatELFunctions.java;;;OOZIE-1725;No changed lines, only additions
 5045f89cf1042721b9f7fd8b070390b8e0afef7e;2014-04-02T04:14:59+0300;release-log.txt;;;OOZIE-1725;Ignored file type
-0b4d3521a92ca8f7d4f7e6f91e6470d2a09118bc;2014-03-31T22:49:28+0300;core/src/main/java/org/apache/oozie/service/JMSTopicService.java;;;OOZIE-1765;No changed lines, only additions
+0b4d3521a92ca8f7d4f7e6f91e6470d2a09118bc;2014-03-31T22:49:28+0300;core/src/main/java/org/apache/oozie/service/JMSTopicService.java;762e36bb0f150006da124b5b8fdaba23162a11d8;2013-04-18T02:55:20+0300;OOZIE-1765;
 0b4d3521a92ca8f7d4f7e6f91e6470d2a09118bc;2014-03-31T22:49:28+0300;core/src/test/java/org/apache/oozie/service/TestJMSTopicService.java;2010b2c6d75f7546bcdcdf08e96f5cf15f29ad55;2013-07-29T19:54:51+0300;OOZIE-1765;
 0b4d3521a92ca8f7d4f7e6f91e6470d2a09118bc;2014-03-31T22:49:28+0300;docs/src/site/twiki/AG_Install.twiki;773cee8d546a7bdef2687b87280ef26ebfed3ae2;2013-07-03T22:00:40+0300;OOZIE-1765;
 0b4d3521a92ca8f7d4f7e6f91e6470d2a09118bc;2014-03-31T22:49:28+0300;docs/src/site/twiki/DG_JMSNotifications.twiki;03f52148617b8442562accebe5bb033bef9a9594;2013-07-12T17:49:22+0300;OOZIE-1765;
@@ -3558,7 +3558,7 @@ c082d84b86beaf943306513a3d1908da608176a5;2014-03-31T19:33:56+0300;release-log.tx
 3de3c523d4645b2150e21c12f599de0cb5b333b4;2014-03-28T02:04:29+0200;core/src/test/java/org/apache/oozie/command/coord/TestCoordRerunXCommand.java;;;OOZIE-1735;No changed lines, only additions
 3de3c523d4645b2150e21c12f599de0cb5b333b4;2014-03-28T02:04:29+0200;docs/src/site/twiki/DG_CommandLineTool.twiki;35f3dd01cc5b191f2e0980297807237568920b20;2011-09-02T03:32:23+0300;OOZIE-1735;
 3de3c523d4645b2150e21c12f599de0cb5b333b4;2014-03-28T02:04:29+0200;release-log.txt;;;OOZIE-1735;Ignored file type
-4c28591b76e1927af3a2f41b4b295ca5cd3eeb00;2014-03-25T22:35:58+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-1713;No changed lines, only additions
+4c28591b76e1927af3a2f41b4b295ca5cd3eeb00;2014-03-25T22:35:58+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-1713;
 4c28591b76e1927af3a2f41b4b295ca5cd3eeb00;2014-03-25T22:35:58+0200;core/src/main/java/org/apache/oozie/action/hadoop/LauncherMapperHelper.java;04339dfe04bf67c52da42672e369642ea2e471b9;2013-06-10T23:15:11+0300;OOZIE-1713;
 4c28591b76e1927af3a2f41b4b295ca5cd3eeb00;2014-03-25T22:35:58+0200;release-log.txt;;;OOZIE-1713;Ignored file type
 4c28591b76e1927af3a2f41b4b295ca5cd3eeb00;2014-03-25T22:35:58+0200;sharelib/oozie/src/main/java/org/apache/oozie/action/hadoop/OozieLauncherInputFormat.java;;;OOZIE-1713;No changed lines, only additions
@@ -3645,7 +3645,7 @@ c873b8e63c33d6304e9151b537b8cffa904e2766;2014-01-27T23:24:59+0200;tools/src/main
 040e5f4d4ca84872d04ea8b01c3c5be710ed428d;2014-01-27T05:54:30+0200;release-log.txt;;;OOZIE-1668;Ignored file type
 222b014584083f101173bbaecd89649128330854;2014-01-24T20:12:42+0200;release-log.txt;;;OOZIE-1674;Ignored file type
 222b014584083f101173bbaecd89649128330854;2014-01-24T20:12:42+0200;tools/src/main/java/org/apache/oozie/tools/OozieDBCLI.java;8ca266face9f7848fde26dd83dafbd45ff7eedb1;2013-12-30T21:49:52+0200;OOZIE-1674;
-126018c37869f718f6b06a4a4330e87f9f09228a;2014-01-17T20:53:26+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-1670;
+126018c37869f718f6b06a4a4330e87f9f09228a;2014-01-17T20:53:26+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-1670;
 126018c37869f718f6b06a4a4330e87f9f09228a;2014-01-17T20:53:26+0200;core/src/test/java/org/apache/oozie/command/wf/TestWorkflowActionKillXCommand.java;cd7e4d6ad7374f63d43c930d806790931c3311eb;2013-06-11T19:56:40+0300;OOZIE-1670;
 126018c37869f718f6b06a4a4330e87f9f09228a;2014-01-17T20:53:26+0200;release-log.txt;;;OOZIE-1670;Ignored file type
 386bb736ca90440786f0638217c1f5a00d58b11e;2014-01-17T20:10:15+0200;core/src/main/java/org/apache/oozie/command/XCommand.java;;;OOZIE-1663;No changed lines, only additions
@@ -3656,7 +3656,7 @@ c873b8e63c33d6304e9151b537b8cffa904e2766;2014-01-27T23:24:59+0200;tools/src/main
 92a9665e0e9124e3c92feb1d28c1d1b9cfb628b1;2014-01-17T19:51:45+0200;webapp/src/main/webapp/oozie-console.js;;;OOZIE-1672;No changed lines, only additions
 590b40f5fd014099c6a8934f25e29a912a1b6eec;2014-01-14T19:24:10+0200;release-log.txt;;;OOZIE-1666;Ignored file type
 590b40f5fd014099c6a8934f25e29a912a1b6eec;2014-01-14T19:24:10+0200;webapp/src/main/webapp/oozie-console.css;;;OOZIE-1666;No changed lines, only additions
-2694f15ca6a444964a6ff8e8069d03ea2b678827;2014-01-11T01:37:43+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-1658;No changed lines, only additions
+2694f15ca6a444964a6ff8e8069d03ea2b678827;2014-01-11T01:37:43+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-1658;
 2694f15ca6a444964a6ff8e8069d03ea2b678827;2014-01-11T01:37:43+0200;core/src/main/java/org/apache/oozie/action/hadoop/OozieJobInfo.java;;;OOZIE-1658;No changed lines, only additions
 2694f15ca6a444964a6ff8e8069d03ea2b678827;2014-01-11T01:37:43+0200;core/src/main/java/org/apache/oozie/command/bundle/BundleStartXCommand.java;;;OOZIE-1658;No changed lines, only additions
 2694f15ca6a444964a6ff8e8069d03ea2b678827;2014-01-11T01:37:43+0200;core/src/main/java/org/apache/oozie/command/coord/CoordActionStartXCommand.java;;;OOZIE-1658;No changed lines, only additions
@@ -4064,7 +4064,7 @@ cf8aa54e0e52333279c02083b31237b5ad42f276;2013-09-06T19:17:17+0300;sharelib/strea
 44ac116cd93d03e142ddd0e90ea82577dfa35d35;2013-09-06T05:32:08+0300;sharelib/streaming/src/test/java/org/apache/oozie/action/hadoop/TestMapReduceActionExecutor.java;e07fa9a6902f9dc89605278c1137dae7293be213;2013-08-28T21:48:12+0300;OOZIE-1520;
 df677477c9f7b39daf4a4d68f4af72ae40fb118d;2013-09-04T23:59:51+0300;core/src/main/java/org/apache/oozie/command/wf/SignalXCommand.java;c9d99f6b46b2311a441e8be9634b63156d7a3ccb;2011-09-02T03:35:40+0300;OOZIE-1513;
 df677477c9f7b39daf4a4d68f4af72ae40fb118d;2013-09-04T23:59:51+0300;release-log.txt;;;OOZIE-1513;Ignored file type
-9fba0ada77ed24e8846fd3e448cc2f176554543e;2013-08-31T11:45:42+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-1372;No changed lines, only additions
+9fba0ada77ed24e8846fd3e448cc2f176554543e;2013-08-31T11:45:42+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-1372;
 9fba0ada77ed24e8846fd3e448cc2f176554543e;2013-08-31T11:45:42+0300;core/src/test/java/org/apache/oozie/action/hadoop/TestJavaActionExecutor.java;;;OOZIE-1372;No changed lines, only additions
 9fba0ada77ed24e8846fd3e448cc2f176554543e;2013-08-31T11:45:42+0300;release-log.txt;;;OOZIE-1372;Ignored file type
 c4020d2c5908b3481c52929f6db01bb6abbbda03;2013-08-23T18:34:38+0300;core/src/main/java/org/apache/oozie/command/bundle/BundleKillXCommand.java;59040b9e11d0303a580d3e612c2ed7a322d57c33;2011-09-02T03:38:12+0300;OOZIE-1507;
@@ -4142,7 +4142,7 @@ cad2f917d908ef191714c0d76f6986d37676f233;2013-08-13T23:51:05+0300;tools/src/main
 842436e86e25bbd3d8613e1d6e4de5bb40e32d4f;2013-08-08T23:45:56+0300;core/src/test/java/org/apache/oozie/workflow/lite/TestLiteWorkflowAppParser.java;;;OOZIE-1443;No changed lines, only additions
 842436e86e25bbd3d8613e1d6e4de5bb40e32d4f;2013-08-08T23:45:56+0300;release-log.txt;;;OOZIE-1443;Ignored file type
 b6f285a5be0bfe299338aa0f81532a8b740a6b01;2013-08-08T10:46:14+0300;core/src/main/java/org/apache/oozie/action/hadoop/FsActionExecutor.java;0c7df8c3c511ccd8475eb916e77c2826f841476a;2013-04-30T23:55:06+0300;OOZIE-1471;
-b6f285a5be0bfe299338aa0f81532a8b740a6b01;2013-08-08T10:46:14+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-1471;No changed lines, only additions
+b6f285a5be0bfe299338aa0f81532a8b740a6b01;2013-08-08T10:46:14+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-1471;
 b6f285a5be0bfe299338aa0f81532a8b740a6b01;2013-08-08T10:46:14+0300;core/src/main/java/org/apache/oozie/action/hadoop/LauncherMapperHelper.java;;;OOZIE-1471;No changed lines, only additions
 b6f285a5be0bfe299338aa0f81532a8b740a6b01;2013-08-08T10:46:14+0300;core/src/test/java/org/apache/oozie/action/hadoop/TestFSPrepareActions.java;;;OOZIE-1471;No changed lines, only additions
 b6f285a5be0bfe299338aa0f81532a8b740a6b01;2013-08-08T10:46:14+0300;core/src/test/java/org/apache/oozie/action/hadoop/TestFsActionExecutor.java;;;OOZIE-1471;No changed lines, only additions
@@ -4276,7 +4276,7 @@ dee88f62e8c5da7e2188aa8472c4872306887f2c;2013-06-10T19:30:09+0300;release-log.tx
 133bcf7190eef0440f36e81ffec3cda683a99f22;2013-06-05T20:26:19+0300;core/src/test/java/org/apache/oozie/servlet/MockCoordinatorEngineService.java;cd2fbdac8d3f2a95688ef0cdf5ff40ce88c06436;2012-02-28T01:55:30+0200;OOZIE-1357;
 133bcf7190eef0440f36e81ffec3cda683a99f22;2013-06-05T20:26:19+0300;release-log.txt;;;OOZIE-1357;Ignored file type
 133bcf7190eef0440f36e81ffec3cda683a99f22;2013-06-05T20:26:19+0300;webapp/src/main/webapp/oozie-console.js;d2d21e073b081ae3255c32c1a624ff53dbf732a4;2013-01-23T20:38:24+0200;OOZIE-1357;
-969f8236c4273da609cd30da59cf0ba18946c017;2013-06-05T19:39:50+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a4c0173f34efd7104896ad751105e6b486e8a690;2012-03-13T00:36:48+0200;OOZIE-1381;
+969f8236c4273da609cd30da59cf0ba18946c017;2013-06-05T19:39:50+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-1381;
 969f8236c4273da609cd30da59cf0ba18946c017;2013-06-05T19:39:50+0300;core/src/test/java/org/apache/oozie/action/hadoop/TestJavaActionExecutor.java;;;OOZIE-1381;No changed lines, only additions
 969f8236c4273da609cd30da59cf0ba18946c017;2013-06-05T19:39:50+0300;release-log.txt;;;OOZIE-1381;Ignored file type
 85e70e19df62714dd4360bf6e51b32371a37c7d8;2013-06-04T03:26:31+0300;core/src/test/java/org/apache/oozie/service/TestPartitionDependencyManagerEhcache.java;e2d54fcf885c68db4ef6e00075ee04a16932d565;2013-03-13T05:55:35+0200;OOZIE-1298;
@@ -4329,7 +4329,7 @@ a830d08659593b2dfc542833fda0f3aa75c62745;2013-05-23T21:20:45+0300;release-log.tx
 1a903028345532eeb5b0e6d3081610d49f48d368;2013-05-15T20:53:22+0300;core/src/main/java/org/apache/oozie/command/SuspendTransitionXCommand.java;;;OOZIE-1356;No changed lines, only additions
 1a903028345532eeb5b0e6d3081610d49f48d368;2013-05-15T20:53:22+0300;core/src/test/java/org/apache/oozie/command/bundle/TestBundleJobSuspendXCommand.java;;;OOZIE-1356;No changed lines, only additions
 1a903028345532eeb5b0e6d3081610d49f48d368;2013-05-15T20:53:22+0300;release-log.txt;;;OOZIE-1356;Ignored file type
-74e18c323b60df24d72a4cf1803cfd6f38c0466e;2013-05-13T21:48:03+0300;client/src/main/java/org/apache/oozie/client/rest/JsonToBean.java;;;OOZIE-1360;No changed lines, only additions
+74e18c323b60df24d72a4cf1803cfd6f38c0466e;2013-05-13T21:48:03+0300;client/src/main/java/org/apache/oozie/client/rest/JsonToBean.java;dbf7f561442bdd374f26a90a3d75a648a4470a3c;2011-09-02T03:37:51+0300;OOZIE-1360;
 74e18c323b60df24d72a4cf1803cfd6f38c0466e;2013-05-13T21:48:03+0300;release-log.txt;;;OOZIE-1360;Ignored file type
 3a86ca683bd39536ae362f062e7304ab832dc2d7;2013-05-13T21:46:42+0300;docs/src/site/twiki/CoordinatorFunctionalSpec.twiki;;;OOZIE-1359;No changed lines, only additions
 3a86ca683bd39536ae362f062e7304ab832dc2d7;2013-05-13T21:46:42+0300;release-log.txt;;;OOZIE-1359;Ignored file type
@@ -4385,7 +4385,7 @@ c7a4478f18f8233e2e5cdc5bd1c015874b44591d;2013-05-10T23:15:42+0300;release-log.tx
 0492ce4f059641a286b6a258bf6f8f37d32ae94c;2013-05-08T20:59:52+0300;core/src/main/java/org/apache/oozie/jms/JMSJobEventListener.java;762e36bb0f150006da124b5b8fdaba23162a11d8;2013-04-18T02:55:20+0300;OOZIE-1347;
 0492ce4f059641a286b6a258bf6f8f37d32ae94c;2013-05-08T20:59:52+0300;core/src/main/java/org/apache/oozie/jms/JMSServerInfo.java;762e36bb0f150006da124b5b8fdaba23162a11d8;2013-04-18T02:55:20+0300;OOZIE-1347;
 0492ce4f059641a286b6a258bf6f8f37d32ae94c;2013-05-08T20:59:52+0300;core/src/main/java/org/apache/oozie/service/JMSAccessorService.java;762e36bb0f150006da124b5b8fdaba23162a11d8;2013-04-18T02:55:20+0300;OOZIE-1347;
-0492ce4f059641a286b6a258bf6f8f37d32ae94c;2013-05-08T20:59:52+0300;core/src/main/java/org/apache/oozie/service/JMSTopicService.java;;;OOZIE-1347;No changed lines, only additions
+0492ce4f059641a286b6a258bf6f8f37d32ae94c;2013-05-08T20:59:52+0300;core/src/main/java/org/apache/oozie/service/JMSTopicService.java;762e36bb0f150006da124b5b8fdaba23162a11d8;2013-04-18T02:55:20+0300;OOZIE-1347;
 0492ce4f059641a286b6a258bf6f8f37d32ae94c;2013-05-08T20:59:52+0300;core/src/main/java/org/apache/oozie/servlet/BaseAdminServlet.java;;;OOZIE-1347;No changed lines, only additions
 0492ce4f059641a286b6a258bf6f8f37d32ae94c;2013-05-08T20:59:52+0300;core/src/main/java/org/apache/oozie/servlet/BaseJobServlet.java;762e36bb0f150006da124b5b8fdaba23162a11d8;2013-04-18T02:55:20+0300;OOZIE-1347;
 0492ce4f059641a286b6a258bf6f8f37d32ae94c;2013-05-08T20:59:52+0300;core/src/main/java/org/apache/oozie/servlet/V0AdminServlet.java;9501311af7a50904c7eabee1fa1a9053c17234ac;2011-09-02T03:31:55+0300;OOZIE-1347;
@@ -4409,7 +4409,7 @@ c7a4478f18f8233e2e5cdc5bd1c015874b44591d;2013-05-10T23:15:42+0300;release-log.tx
 0492ce4f059641a286b6a258bf6f8f37d32ae94c;2013-05-08T20:59:52+0300;release-log.txt;;;OOZIE-1347;Ignored file type
 0492ce4f059641a286b6a258bf6f8f37d32ae94c;2013-05-08T20:59:52+0300;webapp/src/main/webapp/WEB-INF/web.xml;;;OOZIE-1347;
 4249aaeea2dde6a925c239d11b846804f6fc546c;2013-05-07T23:59:53+0300;client/src/main/java/org/apache/oozie/client/OozieClient.java;9501311af7a50904c7eabee1fa1a9053c17234ac;2011-09-02T03:31:55+0300;OOZIE-1231;
-4249aaeea2dde6a925c239d11b846804f6fc546c;2013-05-07T23:59:53+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-1231;
+4249aaeea2dde6a925c239d11b846804f6fc546c;2013-05-07T23:59:53+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-1231;
 4249aaeea2dde6a925c239d11b846804f6fc546c;2013-05-07T23:59:53+0300;core/src/main/java/org/apache/oozie/action/hadoop/MapReduceActionExecutor.java;;;OOZIE-1231;No changed lines, only additions
 4249aaeea2dde6a925c239d11b846804f6fc546c;2013-05-07T23:59:53+0300;core/src/main/java/org/apache/oozie/command/wf/ActionStartXCommand.java;;;OOZIE-1231;No changed lines, only additions
 4249aaeea2dde6a925c239d11b846804f6fc546c;2013-05-07T23:59:53+0300;core/src/main/java/org/apache/oozie/servlet/V1JobServlet.java;d522e0c8bb88510e3bc20cb2927f170545bf87bf;2011-09-02T03:36:23+0300;OOZIE-1231;
@@ -4424,7 +4424,7 @@ c7a4478f18f8233e2e5cdc5bd1c015874b44591d;2013-05-10T23:15:42+0300;release-log.tx
 4249aaeea2dde6a925c239d11b846804f6fc546c;2013-05-07T23:59:53+0300;release-log.txt;;;OOZIE-1231;Ignored file type
 4249aaeea2dde6a925c239d11b846804f6fc546c;2013-05-07T23:59:53+0300;webapp/src/main/webapp/WEB-INF/web.xml;;;OOZIE-1231;No changed lines, only additions
 4249aaeea2dde6a925c239d11b846804f6fc546c;2013-05-07T23:59:53+0300;webapp/src/main/webapp/oozie-console.js;9501311af7a50904c7eabee1fa1a9053c17234ac;2011-09-02T03:31:55+0300;OOZIE-1231;
-df4b00b2df47358632f28d9115ba0905b5389cb1;2013-05-02T20:34:39+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-1335;No changed lines, only additions
+df4b00b2df47358632f28d9115ba0905b5389cb1;2013-05-02T20:34:39+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-1335;
 df4b00b2df47358632f28d9115ba0905b5389cb1;2013-05-02T20:34:39+0300;core/src/main/resources/oozie-default.xml;;;OOZIE-1335;No changed lines, only additions
 df4b00b2df47358632f28d9115ba0905b5389cb1;2013-05-02T20:34:39+0300;core/src/test/java/org/apache/oozie/action/hadoop/TestJavaActionExecutor.java;;;OOZIE-1335;No changed lines, only additions
 df4b00b2df47358632f28d9115ba0905b5389cb1;2013-05-02T20:34:39+0300;release-log.txt;;;OOZIE-1335;Ignored file type
@@ -4543,7 +4543,7 @@ f72aef6bf778c25ca9d1b2c0134d2a5e9036bc6b;2013-03-20T09:38:18+0200;release-log.tx
 632ee8b7655c93e725c602192c08623a5f73cb92;2013-03-18T19:54:54+0200;webapp/src/main/webapp/oozie-console.js;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-1270;
 9507257b8a67d0496601bb82cee1e8ae80818859;2013-03-18T19:52:37+0200;release-log.txt;;;OOZIE-1208;Ignored file type
 9507257b8a67d0496601bb82cee1e8ae80818859;2013-03-18T19:52:37+0200;webapp/src/main/webapp/oozie-console.js;65ce7ee1d8f648b539073f057c3da5e3cbcebed1;2011-10-08T01:52:35+0300;OOZIE-1208;
-967910635a9420297c2df88175e8d6eb5144c730;2013-03-14T23:10:57+0200;core/src/main/java/org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java;;;OOZIE-1264;No changed lines, only additions
+967910635a9420297c2df88175e8d6eb5144c730;2013-03-14T23:10:57+0200;core/src/main/java/org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java;30cd440990e99c1f1ad8b9a7bea66913152cb370;2012-03-13T00:55:41+0200;OOZIE-1264;
 967910635a9420297c2df88175e8d6eb5144c730;2013-03-14T23:10:57+0200;core/src/main/java/org/apache/oozie/command/wf/SubmitXCommand.java;;;OOZIE-1264;No changed lines, only additions
 967910635a9420297c2df88175e8d6eb5144c730;2013-03-14T23:10:57+0200;core/src/test/java/org/apache/oozie/action/oozie/TestSubWorkflowActionExecutor.java;;;OOZIE-1264;No changed lines, only additions
 967910635a9420297c2df88175e8d6eb5144c730;2013-03-14T23:10:57+0200;release-log.txt;;;OOZIE-1264;Ignored file type
@@ -4633,7 +4633,7 @@ e164b85872405ecd2601fb0e6e52c4e1ae415584;2013-02-15T08:14:22+0200;release-log.tx
 2e3889c55e53c995adfd0f640aef499faee00ef2;2013-01-29T19:45:47+0200;release-log.txt;;;OOZIE-1194;Ignored file type
 cfb97054f39523a380244d161ce7f41ff1481b41;2013-01-29T03:18:04+0200;pom.xml;bee153c18a52b47eec6ee1f262a231ac176cf272;2011-11-23T23:49:54+0200;OOZIE-1193;
 cfb97054f39523a380244d161ce7f41ff1481b41;2013-01-29T03:18:04+0200;release-log.txt;;;OOZIE-1193;Ignored file type
-a92f70af6450e653abafdb0fa0ee0ac026bab723;2013-01-28T20:10:56+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-87;
+a92f70af6450e653abafdb0fa0ee0ac026bab723;2013-01-28T20:10:56+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;d3af7de76ee2b80e4e70768a5bafd92ee67089d3;2011-09-02T03:41:52+0300;OOZIE-87;
 a92f70af6450e653abafdb0fa0ee0ac026bab723;2013-01-28T20:10:56+0200;core/src/test/java/org/apache/oozie/action/hadoop/TestMapReduceActionExecutor.java;;;OOZIE-87;No changed lines, only additions
 a92f70af6450e653abafdb0fa0ee0ac026bab723;2013-01-28T20:10:56+0200;release-log.txt;;;OOZIE-87;Ignored file type
 a92f70af6450e653abafdb0fa0ee0ac026bab723;2013-01-28T20:10:56+0200;tests/pig/src/test/java/org/apache/oozie/action/hadoop/TestPigActionExecutor.java;;;OOZIE-87;No changed lines, only additions
@@ -4676,7 +4676,7 @@ f82e82b6794476a4776dcc459a0c6ed492566363;2012-12-27T02:31:04+0200;release-log.tx
 43480c12f6fea605c720ae64aa4a9d0208d82735;2012-12-23T01:53:37+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;4637ca417ae31f6b4f0530b8dca2d5fbadc2e03f;2012-12-19T20:18:58+0200;OOZIE-1144;
 43480c12f6fea605c720ae64aa4a9d0208d82735;2012-12-23T01:53:37+0200;core/src/test/java/org/apache/oozie/action/hadoop/TestJavaActionExecutor.java;;;OOZIE-1144;No changed lines, only additions
 43480c12f6fea605c720ae64aa4a9d0208d82735;2012-12-23T01:53:37+0200;release-log.txt;;;OOZIE-1144;Ignored file type
-4637ca417ae31f6b4f0530b8dca2d5fbadc2e03f;2012-12-19T20:18:58+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;c40c46294576659e5e58bd7a52984b9fe7b74e23;2012-05-10T07:08:39+0300;OOZIE-1137;
+4637ca417ae31f6b4f0530b8dca2d5fbadc2e03f;2012-12-19T20:18:58+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-1137;
 4637ca417ae31f6b4f0530b8dca2d5fbadc2e03f;2012-12-19T20:18:58+0200;release-log.txt;;;OOZIE-1137;Ignored file type
 21fc4a1a1054148fddf0594f695a881e5ebd6427;2012-12-18T21:38:48+0200;core/src/main/java/org/apache/oozie/command/XCommand.java;;;OOZIE-1110;No changed lines, only additions
 21fc4a1a1054148fddf0594f695a881e5ebd6427;2012-12-18T21:38:48+0200;release-log.txt;;;OOZIE-1110;Ignored file type
@@ -4769,7 +4769,7 @@ e20c3ec98e607b1050d6b98a839e94443b1c86e2;2012-12-07T20:54:16+0200;release-log.tx
 055f4a320abc342da884da5905303e6781d6a90b;2012-12-07T20:08:24+0200;core/src/main/java/org/apache/oozie/command/wf/ReRunXCommand.java;1a90756dbfe864e07a22d28beac555d568b8141c;2011-09-02T03:41:28+0300;OOZIE-1101;
 055f4a320abc342da884da5905303e6781d6a90b;2012-12-07T20:08:24+0200;core/src/main/java/org/apache/oozie/command/wf/ResumeXCommand.java;8396f0ff4138af1c2c07a218402f5d1411db8499;2012-09-29T01:59:25+0300;OOZIE-1101;
 055f4a320abc342da884da5905303e6781d6a90b;2012-12-07T20:08:24+0200;core/src/main/java/org/apache/oozie/command/wf/SignalXCommand.java;;;OOZIE-1101;No changed lines, only additions
-055f4a320abc342da884da5905303e6781d6a90b;2012-12-07T20:08:24+0200;core/src/main/java/org/apache/oozie/command/wf/SubmitHttpXCommand.java;;;OOZIE-1101;No changed lines, only additions
+055f4a320abc342da884da5905303e6781d6a90b;2012-12-07T20:08:24+0200;core/src/main/java/org/apache/oozie/command/wf/SubmitHttpXCommand.java;30cd440990e99c1f1ad8b9a7bea66913152cb370;2012-03-13T00:55:41+0200;OOZIE-1101;
 055f4a320abc342da884da5905303e6781d6a90b;2012-12-07T20:08:24+0200;core/src/main/java/org/apache/oozie/command/wf/SubmitXCommand.java;;;OOZIE-1101;No changed lines, only additions
 055f4a320abc342da884da5905303e6781d6a90b;2012-12-07T20:08:24+0200;core/src/main/java/org/apache/oozie/command/wf/SuspendXCommand.java;;;OOZIE-1101;No changed lines, only additions
 055f4a320abc342da884da5905303e6781d6a90b;2012-12-07T20:08:24+0200;core/src/main/java/org/apache/oozie/command/wf/WfEndXCommand.java;;;OOZIE-1101;No changed lines, only additions
@@ -4862,7 +4862,7 @@ e20c3ec98e607b1050d6b98a839e94443b1c86e2;2012-12-07T20:54:16+0200;release-log.tx
 62292a3f72b7fbad7615482c8b1af02264b3611b;2012-12-07T08:18:54+0200;src/main/assemblies/hbaselibs.xml;;;OOZIE-1116;No changed lines, only additions
 e937241d9dc3dfbd717ed67c5c84157d6950891e;2012-12-04T05:40:26+0200;core/src/main/java/org/apache/oozie/action/hadoop/FsActionExecutor.java;;;OOZIE-1093;No changed lines, only additions
 e937241d9dc3dfbd717ed67c5c84157d6950891e;2012-12-04T05:40:26+0200;release-log.txt;;;OOZIE-1093;Ignored file type
-f3cdfef32d461f051f517ec444319509d4eab405;2012-12-04T05:31:45+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;4f71616d00c67f0eca3aef7bf6f2a9a6f8805d21;2012-06-22T23:04:39+0300;OOZIE-1094;
+f3cdfef32d461f051f517ec444319509d4eab405;2012-12-04T05:31:45+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-1094;
 f3cdfef32d461f051f517ec444319509d4eab405;2012-12-04T05:31:45+0200;core/src/test/java/org/apache/oozie/action/hadoop/TestJavaActionExecutor.java;4f71616d00c67f0eca3aef7bf6f2a9a6f8805d21;2012-06-22T23:04:39+0300;OOZIE-1094;
 f3cdfef32d461f051f517ec444319509d4eab405;2012-12-04T05:31:45+0200;release-log.txt;;;OOZIE-1094;Ignored file type
 350a91585224cb3758c698f96c16a6ff200d26c3;2012-12-03T21:23:48+0200;core/src/main/java/org/apache/oozie/action/hadoop/PigMain.java;b898d0392297061251c82428316ab2d4897762ea;2011-09-02T03:31:41+0300;OOZIE-1099;
@@ -4897,7 +4897,7 @@ ed2ed79d2953ad470adca397d72ee90c1779456e;2012-11-25T18:46:47+0200;core/src/main/
 ed2ed79d2953ad470adca397d72ee90c1779456e;2012-11-25T18:46:47+0200;core/src/test/java/org/apache/oozie/command/wf/TestActionCheckXCommand.java;;;OOZIE-1057;No changed lines, only additions
 ed2ed79d2953ad470adca397d72ee90c1779456e;2012-11-25T18:46:47+0200;release-log.txt;;;OOZIE-1057;Ignored file type
 55242b4636b0e10e82a4cfab80527a6a715bd898;2012-11-17T00:54:54+0200;docs/src/site/twiki/CoordinatorFunctionalSpec.twiki;9501311af7a50904c7eabee1fa1a9053c17234ac;2011-09-02T03:31:55+0300;OOZIE-1072;
-551bae9239a57a1b20c86a1c20bcc5cf94a75d62;2012-11-14T03:22:07+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;6926fa0f3773a68333c1d95956c940406ddfdc40;2012-03-10T06:33:40+0200;OOZIE-1058;
+551bae9239a57a1b20c86a1c20bcc5cf94a75d62;2012-11-14T03:22:07+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;OOZIE-1058;
 551bae9239a57a1b20c86a1c20bcc5cf94a75d62;2012-11-14T03:22:07+0200;core/src/test/java/org/apache/oozie/action/hadoop/TestJavaActionExecutor.java;b7993b7577677878405f63d46cea67522776fde3;2011-09-02T03:41:40+0300;OOZIE-1058;
 551bae9239a57a1b20c86a1c20bcc5cf94a75d62;2012-11-14T03:22:07+0200;release-log.txt;;;OOZIE-1058;Ignored file type
 c101c8cc38a04ca69bdfcdaf8e909fa9c716f731;2012-11-14T03:14:03+0200;core/src/main/java/org/apache/oozie/action/hadoop/LauncherMapper.java;a4c0173f34efd7104896ad751105e6b486e8a690;2012-03-13T00:36:48+0200;OOZIE-1052;
@@ -4917,7 +4917,7 @@ f948e36a4cf6e5c6ca93dde8c5e6a4987e5a6a54;2012-11-13T06:46:23+0200;release-log.tx
 0c98347cf53590015ca8720475caffe24b5489f8;2012-10-27T02:29:01+0300;core/src/test/java/org/apache/oozie/command/wf/TestActionCheckXCommand.java;;;OOZIE-1011;No changed lines, only additions
 0c98347cf53590015ca8720475caffe24b5489f8;2012-10-27T02:29:01+0300;release-log.txt;;;OOZIE-1011;Ignored file type
 cdc27e810d6bbeeeca144a39ae1bf126ff46343d;2012-10-23T20:54:45+0300;client/src/main/java/org/apache/oozie/client/XOozieClient.java;;;OOZIE-1027;No changed lines, only additions
-cdc27e810d6bbeeeca144a39ae1bf126ff46343d;2012-10-23T20:54:45+0300;core/src/main/java/org/apache/oozie/command/wf/SubmitMRXCommand.java;9ee27f9a44ba357dcfe672c666a235418b756a95;2011-09-02T03:35:47+0300;OOZIE-1027;
+cdc27e810d6bbeeeca144a39ae1bf126ff46343d;2012-10-23T20:54:45+0300;core/src/main/java/org/apache/oozie/command/wf/SubmitMRXCommand.java;aae6732daf7d00742774f0936b29f19f1caeceb4;2012-03-01T22:47:23+0200;OOZIE-1027;
 cdc27e810d6bbeeeca144a39ae1bf126ff46343d;2012-10-23T20:54:45+0300;core/src/test/java/org/apache/oozie/command/wf/TestSubmitMRXCommand.java;;;OOZIE-1027;No changed lines, only additions
 cdc27e810d6bbeeeca144a39ae1bf126ff46343d;2012-10-23T20:54:45+0300;release-log.txt;;;OOZIE-1027;Ignored file type
 9caf9105ab3802bd3058641775a357d893d53f71;2012-10-23T20:46:51+0300;core/src/main/java/org/apache/oozie/BundleJobBean.java;;;OOZIE-1020;No changed lines, only additions
@@ -4941,7 +4941,7 @@ dc56aaeed6a56dff58e7ff1328ab36da8cae427a;2012-10-12T03:55:53+0300;release-log.tx
 7581d9071f15078d061d0a4101c13421f73fc9c3;2012-10-12T01:57:37+0300;core/src/test/java/org/apache/oozie/service/TestSchemaService.java;90b9b275d04b8671caedcc79f60f8f35a641ede3;2012-03-28T22:55:41+0300;OOZIE-1016;
 7581d9071f15078d061d0a4101c13421f73fc9c3;2012-10-12T01:57:37+0300;core/src/test/java/org/apache/oozie/workflow/lite/TestLiteWorkflowAppParser.java;53f25bbdc7749df17bd93d657f76d61e62fb6651;2012-08-07T07:39:50+0300;OOZIE-1016;
 7581d9071f15078d061d0a4101c13421f73fc9c3;2012-10-12T01:57:37+0300;release-log.txt;;;OOZIE-1016;Ignored file type
-a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-993;No changed lines, only additions
+a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;232ade128dc974254bd280e1bb9ebcc53c8c32a3;2012-07-17T19:45:25+0300;OOZIE-993;
 a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;core/src/test/java/org/apache/oozie/test/XTestCase.java;;;OOZIE-993;No changed lines, only additions
 a9c26541610036333bbcf60bf69b39a585de0d20;2012-10-04T23:09:20+0300;release-log.txt;;;OOZIE-993;Ignored file type
 6fa1034f46f027e4f351e8e5f163b753e1addc45;2012-10-04T20:47:56+0300;core/src/test/resources/graphWF.xml;01d5e5d249a056bebf5edccfd4f32b737c0c663c;2012-08-21T20:20:40+0300;OOZIE-1013;
@@ -5183,7 +5183,7 @@ e653f1d76602cf180cbaf6c05f46d91633ee23e5;2012-08-30T01:18:44+0300;webapp/pom.xml
 36709abaebfa0dcd604043a444b53c810bd27b0e;2012-08-25T02:47:03+0300;release-log.txt;;;OOZIE-965;Ignored file type
 2a8c12a5e70b99d2afcc71dd17ef8e0be9f8f814;2012-08-22T22:45:45+0300;core/src/main/java/org/apache/oozie/ErrorCode.java;;;OOZIE-934;No changed lines, only additions
 2a8c12a5e70b99d2afcc71dd17ef8e0be9f8f814;2012-08-22T22:45:45+0300;core/src/main/java/org/apache/oozie/action/ActionExecutor.java;ca7894cea75b8fe3193eac09e8c8950d063a6f47;2012-04-03T11:36:24+0300;OOZIE-934;
-2a8c12a5e70b99d2afcc71dd17ef8e0be9f8f814;2012-08-22T22:45:45+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-934;No changed lines, only additions
+2a8c12a5e70b99d2afcc71dd17ef8e0be9f8f814;2012-08-22T22:45:45+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;232ade128dc974254bd280e1bb9ebcc53c8c32a3;2012-07-17T19:45:25+0300;OOZIE-934;
 2a8c12a5e70b99d2afcc71dd17ef8e0be9f8f814;2012-08-22T22:45:45+0300;core/src/main/java/org/apache/oozie/service/ActionService.java;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-934;
 2a8c12a5e70b99d2afcc71dd17ef8e0be9f8f814;2012-08-22T22:45:45+0300;core/src/main/java/org/apache/oozie/service/Services.java;a77190dbaa033ed37a882d847da99d5ba4c1571f;2011-11-16T00:50:46+0200;OOZIE-934;
 2a8c12a5e70b99d2afcc71dd17ef8e0be9f8f814;2012-08-22T22:45:45+0300;release-log.txt;;;OOZIE-934;Ignored file type
@@ -5283,7 +5283,7 @@ d64f7714c62921c9efad0e95e1cf4f3c7a6b4a70;2012-08-22T04:14:45+0300;release-log.tx
 7652a1b424b72115825b69ea35a31d8606e5fadd;2012-08-22T00:31:31+0300;client/src/main/java/org/apache/oozie/client/XOozieClient.java;35f3dd01cc5b191f2e0980297807237568920b20;2011-09-02T03:32:23+0300;OOZIE-477;
 7652a1b424b72115825b69ea35a31d8606e5fadd;2012-08-22T00:31:31+0300;core/src/main/java/org/apache/oozie/ErrorCode.java;;;OOZIE-477;No changed lines, only additions
 7652a1b424b72115825b69ea35a31d8606e5fadd;2012-08-22T00:31:31+0300;core/src/main/java/org/apache/oozie/action/hadoop/FsActionExecutor.java;c7680cd54f4a56255020e74ab957a9d1ff078ae1;2011-09-02T03:41:36+0300;OOZIE-477;
-7652a1b424b72115825b69ea35a31d8606e5fadd;2012-08-22T00:31:31+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-477;No changed lines, only additions
+7652a1b424b72115825b69ea35a31d8606e5fadd;2012-08-22T00:31:31+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;d3af7de76ee2b80e4e70768a5bafd92ee67089d3;2011-09-02T03:41:52+0300;OOZIE-477;
 7652a1b424b72115825b69ea35a31d8606e5fadd;2012-08-22T00:31:31+0300;core/src/main/java/org/apache/oozie/action/hadoop/LauncherMapper.java;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-477;
 7652a1b424b72115825b69ea35a31d8606e5fadd;2012-08-22T00:31:31+0300;core/src/main/java/org/apache/oozie/service/HadoopAccessorService.java;;;OOZIE-477;No changed lines, only additions
 7652a1b424b72115825b69ea35a31d8606e5fadd;2012-08-22T00:31:31+0300;core/src/main/java/org/apache/oozie/service/WorkflowAppService.java;410209b36aeff82e1a1330373cb735ec63a7c37a;2011-09-02T03:33:38+0300;OOZIE-477;
@@ -5313,7 +5313,7 @@ c79ff854f99c2fa72668fec0d093a2ca2a4c9edd;2012-08-13T20:00:24+0300;core/src/main/
 c79ff854f99c2fa72668fec0d093a2ca2a4c9edd;2012-08-13T20:00:24+0300;core/src/test/java/org/apache/oozie/workflow/lite/TestLiteWorkflowAppParser.java;;;OOZIE-926;No changed lines, only additions
 c79ff854f99c2fa72668fec0d093a2ca2a4c9edd;2012-08-13T20:00:24+0300;release-log.txt;;;OOZIE-926;Ignored file type
 30f8e4adcfb9a517674112c21d571e26e457d13d;2012-08-08T10:29:15+0300;core/src/main/java/org/apache/oozie/action/ActionExecutor.java;;;OOZIE-921;No changed lines, only additions
-30f8e4adcfb9a517674112c21d571e26e457d13d;2012-08-08T10:29:15+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-921;No changed lines, only additions
+30f8e4adcfb9a517674112c21d571e26e457d13d;2012-08-08T10:29:15+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;232ade128dc974254bd280e1bb9ebcc53c8c32a3;2012-07-17T19:45:25+0300;OOZIE-921;
 30f8e4adcfb9a517674112c21d571e26e457d13d;2012-08-08T10:29:15+0300;core/src/main/java/org/apache/oozie/workflow/lite/LiteWorkflowAppParser.java;6f4e6dacb090c38e3cc1e328898664188ab3c161;2012-07-16T19:53:54+0300;OOZIE-921;
 30f8e4adcfb9a517674112c21d571e26e457d13d;2012-08-08T10:29:15+0300;core/src/test/java/org/apache/oozie/workflow/lite/TestLiteWorkflowAppParser.java;6f4e6dacb090c38e3cc1e328898664188ab3c161;2012-07-16T19:53:54+0300;OOZIE-921;
 30f8e4adcfb9a517674112c21d571e26e457d13d;2012-08-08T10:29:15+0300;release-log.txt;;;OOZIE-921;Ignored file type
@@ -5377,7 +5377,7 @@ c8b99df2e73b469e0f229211864fa27d97245eb5;2012-08-03T10:40:45+0300;release-log.tx
 340c69d79f041b0c85782bf778136841d1b5ae3b;2012-08-03T07:59:53+0300;core/src/main/java/org/apache/oozie/action/control/JoinActionExecutor.java;;;OOZIE-243;No changed lines, only additions
 340c69d79f041b0c85782bf778136841d1b5ae3b;2012-08-03T07:59:53+0300;core/src/main/java/org/apache/oozie/action/control/KillActionExecutor.java;;;OOZIE-243;No changed lines, only additions
 340c69d79f041b0c85782bf778136841d1b5ae3b;2012-08-03T07:59:53+0300;core/src/main/java/org/apache/oozie/action/control/StartActionExecutor.java;;;OOZIE-243;No changed lines, only additions
-340c69d79f041b0c85782bf778136841d1b5ae3b;2012-08-03T07:59:53+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-243;
+340c69d79f041b0c85782bf778136841d1b5ae3b;2012-08-03T07:59:53+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;d3af7de76ee2b80e4e70768a5bafd92ee67089d3;2011-09-02T03:41:52+0300;OOZIE-243;
 340c69d79f041b0c85782bf778136841d1b5ae3b;2012-08-03T07:59:53+0300;core/src/main/java/org/apache/oozie/command/wf/ActionEndXCommand.java;c9d99f6b46b2311a441e8be9634b63156d7a3ccb;2011-09-02T03:35:40+0300;OOZIE-243;
 340c69d79f041b0c85782bf778136841d1b5ae3b;2012-08-03T07:59:53+0300;core/src/main/java/org/apache/oozie/command/wf/ActionStartXCommand.java;c9d99f6b46b2311a441e8be9634b63156d7a3ccb;2011-09-02T03:35:40+0300;OOZIE-243;
 340c69d79f041b0c85782bf778136841d1b5ae3b;2012-08-03T07:59:53+0300;core/src/main/java/org/apache/oozie/service/ActionService.java;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-243;
@@ -5431,7 +5431,7 @@ c0b48a92866314e56c3954697c11bc54e01ab653;2012-07-26T01:26:26+0300;release-log.tx
 5dfc1c6bf7df76a31167f2d4ed474ed11b781e67;2012-07-25T00:39:51+0300;core/src/test/java/org/apache/oozie/workflow/lite/TestLiteWorkflowAppParser.java;;;OOZIE-922;No changed lines, only additions
 5dfc1c6bf7df76a31167f2d4ed474ed11b781e67;2012-07-25T00:39:51+0300;release-log.txt;;;OOZIE-922;Ignored file type
 2420e54de32e0102d647d9d39f6cac3df3634d17;2012-07-23T09:56:02+0300;client/src/main/java/org/apache/oozie/client/XOozieClient.java;35f3dd01cc5b191f2e0980297807237568920b20;2011-09-02T03:32:23+0300;OOZIE-915;
-2420e54de32e0102d647d9d39f6cac3df3634d17;2012-07-23T09:56:02+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;b898d0392297061251c82428316ab2d4897762ea;2011-09-02T03:31:41+0300;OOZIE-915;
+2420e54de32e0102d647d9d39f6cac3df3634d17;2012-07-23T09:56:02+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;8f504c61eabd34bc92ab66c3758da4e7c48eb0ed;2012-03-23T17:19:30+0200;OOZIE-915;
 2420e54de32e0102d647d9d39f6cac3df3634d17;2012-07-23T09:56:02+0300;core/src/test/java/org/apache/oozie/command/coord/TestCoordActionStartXCommand.java;74e22b017d2403239b259f83b82d59a81650dbe7;2011-09-02T03:36:14+0300;OOZIE-915;
 2420e54de32e0102d647d9d39f6cac3df3634d17;2012-07-23T09:56:02+0300;examples/src/main/java/org/apache/oozie/example/LocalOozieExample.java;b898d0392297061251c82428316ab2d4897762ea;2011-09-02T03:31:41+0300;OOZIE-915;
 2420e54de32e0102d647d9d39f6cac3df3634d17;2012-07-23T09:56:02+0300;release-log.txt;;;OOZIE-915;Ignored file type
@@ -5445,7 +5445,7 @@ ec3fd92f77838aaaababf9c6455b52616e713a8f;2012-07-18T05:45:46+0300;release-log.tx
 04d5cd89db8fd5cdacece8dc897d27c0536ab4a9;2012-07-18T05:39:04+0300;core/src/main/java/org/apache/oozie/BundleActionBean.java;;;OOZIE-904;No changed lines, only additions
 04d5cd89db8fd5cdacece8dc897d27c0536ab4a9;2012-07-18T05:39:04+0300;core/src/main/java/org/apache/oozie/command/bundle/BundleStatusUpdateXCommand.java;3dea537414645374a6810cfd7d88d7a3e5ef3752;2012-07-06T05:45:45+0300;OOZIE-904;
 04d5cd89db8fd5cdacece8dc897d27c0536ab4a9;2012-07-18T05:39:04+0300;release-log.txt;;;OOZIE-904;Ignored file type
-232ade128dc974254bd280e1bb9ebcc53c8c32a3;2012-07-17T19:45:25+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;6926fa0f3773a68333c1d95956c940406ddfdc40;2012-03-10T06:33:40+0200;OOZIE-907;
+232ade128dc974254bd280e1bb9ebcc53c8c32a3;2012-07-17T19:45:25+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;8f504c61eabd34bc92ab66c3758da4e7c48eb0ed;2012-03-23T17:19:30+0200;OOZIE-907;
 232ade128dc974254bd280e1bb9ebcc53c8c32a3;2012-07-17T19:45:25+0300;core/src/test/java/org/apache/oozie/action/hadoop/TestJavaActionExecutor.java;;;OOZIE-907;No changed lines, only additions
 232ade128dc974254bd280e1bb9ebcc53c8c32a3;2012-07-17T19:45:25+0300;release-log.txt;;;OOZIE-907;Ignored file type
 6f4e6dacb090c38e3cc1e328898664188ab3c161;2012-07-16T19:53:54+0300;client/src/main/resources/hive-action-0.4.xsd;;;OOZIE-874;No changed lines, only additions
@@ -5513,7 +5513,7 @@ ad08be5d79cd60d952175557b03905d619930e8b;2012-06-20T23:44:07+0300;src/main/assem
 6555bd40a00e5ee24fb70a1d934ab7680f9949d2;2012-06-14T02:36:33+0300;core/src/test/java/org/apache/oozie/service/TestLiteWorkflowAppService.java;30cd440990e99c1f1ad8b9a7bea66913152cb370;2012-03-13T00:55:41+0200;OOZIE-871;
 6555bd40a00e5ee24fb70a1d934ab7680f9949d2;2012-06-14T02:36:33+0300;release-log.txt;;;OOZIE-871;Ignored file type
 3fc9ea2af3c26aa25deec9049c3e94afa5adfc61;2012-06-13T21:47:50+0300;release-log.txt;;;OOZIE-764;Ignored file type
-5f0156204b4a19f7dea6c6a0437f81c96e523d1c;2012-06-13T21:47:12+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;8ace8e29c05bedb45a9d38b77fce042d18283120;2011-09-02T03:37:27+0300;OOZIE-764;
+5f0156204b4a19f7dea6c6a0437f81c96e523d1c;2012-06-13T21:47:12+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;d3af7de76ee2b80e4e70768a5bafd92ee67089d3;2011-09-02T03:41:52+0300;OOZIE-764;
 bc32ac5d8a270d645df14c1ca120eda9e69cd8e5;2012-05-30T00:32:02+0300;core/src/test/java/org/apache/oozie/action/hadoop/TestMapReduceActionExecutor.java;35f3dd01cc5b191f2e0980297807237568920b20;2011-09-02T03:32:23+0300;OOZIE-852;
 bc32ac5d8a270d645df14c1ca120eda9e69cd8e5;2012-05-30T00:32:02+0300;core/src/test/java/org/apache/oozie/action/hadoop/TestPipesMain.java;6ffd19588401fd1cc5e2917c8445f16553e51856;2012-02-11T01:39:19+0200;OOZIE-852;
 bc32ac5d8a270d645df14c1ca120eda9e69cd8e5;2012-05-30T00:32:02+0300;core/src/test/resources/wordcount-simple_Linux-amd64-64_h20;;;OOZIE-852;Ignored file type
@@ -5710,7 +5710,7 @@ e7b1887a232e70ca97a8826cc6b9d3953f2f3150;2012-03-28T22:53:43+0300;release-log.tx
 f5d4dfe21280ddbbb6cd79579bf7ec2e43c08223;2012-03-28T02:22:39+0300;client/src/main/java/org/apache/oozie/client/rest/JsonToBean.java;;;OOZIE-785;No changed lines, only additions
 f5d4dfe21280ddbbb6cd79579bf7ec2e43c08223;2012-03-28T02:22:39+0300;client/src/test/java/org/apache/oozie/client/rest/TestJsonToBean.java;;;OOZIE-785;No changed lines, only additions
 f5d4dfe21280ddbbb6cd79579bf7ec2e43c08223;2012-03-28T02:22:39+0300;release-log.txt;;;OOZIE-785;Ignored file type
-8f504c61eabd34bc92ab66c3758da4e7c48eb0ed;2012-03-23T17:19:30+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-779;No changed lines, only additions
+8f504c61eabd34bc92ab66c3758da4e7c48eb0ed;2012-03-23T17:19:30+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;d3af7de76ee2b80e4e70768a5bafd92ee67089d3;2011-09-02T03:41:52+0300;OOZIE-779;
 8f504c61eabd34bc92ab66c3758da4e7c48eb0ed;2012-03-23T17:19:30+0200;release-log.txt;;;OOZIE-779;Ignored file type
 f603ec98c8b9233f23d3e12dbb3655898e61eb7d;2012-03-22T07:54:30+0200;core/src/main/java/org/apache/oozie/action/hadoop/HadoopELFunctions.java;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-777;
 f603ec98c8b9233f23d3e12dbb3655898e61eb7d;2012-03-22T07:54:30+0200;release-log.txt;;;OOZIE-777;Ignored file type
@@ -5759,7 +5759,7 @@ ddb8be955affd69d34952c9ef6ca1d5b65dfa1c9;2012-03-14T18:42:16+0200;distro/src/mai
 ddb8be955affd69d34952c9ef6ca1d5b65dfa1c9;2012-03-14T18:42:16+0200;release-log.txt;;;OOZIE-760;Ignored file type
 501c97b59ac33f7bc83d28d26375dbe52d51edeb;2012-03-13T01:24:13+0200;pom.xml;0570455f4c582f4efe4e10ecf9dcd142c2f4b259;2011-11-30T01:11:37+0200;OOZIE-757;
 501c97b59ac33f7bc83d28d26375dbe52d51edeb;2012-03-13T01:24:13+0200;release-log.txt;;;OOZIE-757;Ignored file type
-30cd440990e99c1f1ad8b9a7bea66913152cb370;2012-03-13T00:55:41+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;35f3dd01cc5b191f2e0980297807237568920b20;2011-09-02T03:32:23+0300;OOZIE-755;
+30cd440990e99c1f1ad8b9a7bea66913152cb370;2012-03-13T00:55:41+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;d3af7de76ee2b80e4e70768a5bafd92ee67089d3;2011-09-02T03:41:52+0300;OOZIE-755;
 30cd440990e99c1f1ad8b9a7bea66913152cb370;2012-03-13T00:55:41+0200;core/src/main/java/org/apache/oozie/action/oozie/SubWorkflowActionExecutor.java;9501311af7a50904c7eabee1fa1a9053c17234ac;2011-09-02T03:31:55+0300;OOZIE-755;
 30cd440990e99c1f1ad8b9a7bea66913152cb370;2012-03-13T00:55:41+0200;core/src/main/java/org/apache/oozie/command/bundle/BundleSubmitXCommand.java;10db2d9af5bff60b41f2d00631df1d554f0091e6;2011-09-02T03:36:07+0300;OOZIE-755;
 30cd440990e99c1f1ad8b9a7bea66913152cb370;2012-03-13T00:55:41+0200;core/src/main/java/org/apache/oozie/command/coord/CoordSubmitXCommand.java;9b8d7a46f8a5e242b7ab5c4c91a57e897d5d8884;2011-09-02T03:35:48+0300;OOZIE-755;
@@ -5835,7 +5835,7 @@ ddb8be955affd69d34952c9ef6ca1d5b65dfa1c9;2012-03-14T18:42:16+0200;release-log.tx
 30cd440990e99c1f1ad8b9a7bea66913152cb370;2012-03-13T00:55:41+0200;core/src/test/java/org/apache/oozie/test/XTestCase.java;b331c8954e069dae75a204fbfb1b10b9f3501577;2011-09-02T03:33:07+0300;OOZIE-755;
 30cd440990e99c1f1ad8b9a7bea66913152cb370;2012-03-13T00:55:41+0200;minitest/src/test/java/org/apache/oozie/test/WorkflowTest.java;135dcce0716eb02db9b012fe6c4d88721c527b7f;2011-10-26T22:28:42+0300;OOZIE-755;
 30cd440990e99c1f1ad8b9a7bea66913152cb370;2012-03-13T00:55:41+0200;release-log.txt;;;OOZIE-755;Ignored file type
-6926fa0f3773a68333c1d95956c940406ddfdc40;2012-03-10T06:33:40+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;b898d0392297061251c82428316ab2d4897762ea;2011-09-02T03:31:41+0300;OOZIE-752;
+6926fa0f3773a68333c1d95956c940406ddfdc40;2012-03-10T06:33:40+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;d3af7de76ee2b80e4e70768a5bafd92ee67089d3;2011-09-02T03:41:52+0300;OOZIE-752;
 6926fa0f3773a68333c1d95956c940406ddfdc40;2012-03-10T06:33:40+0200;core/src/main/java/org/apache/oozie/command/bundle/BundleSubmitXCommand.java;5322af0e10cfb4032736afe6559b6b554cb4e7fe;2012-03-09T07:03:40+0200;OOZIE-752;
 6926fa0f3773a68333c1d95956c940406ddfdc40;2012-03-10T06:33:40+0200;core/src/main/java/org/apache/oozie/command/coord/CoordActionInputCheckXCommand.java;5322af0e10cfb4032736afe6559b6b554cb4e7fe;2012-03-09T07:03:40+0200;OOZIE-752;
 6926fa0f3773a68333c1d95956c940406ddfdc40;2012-03-10T06:33:40+0200;core/src/main/java/org/apache/oozie/command/coord/CoordSubmitXCommand.java;5322af0e10cfb4032736afe6559b6b554cb4e7fe;2012-03-09T07:03:40+0200;OOZIE-752;
@@ -5942,7 +5942,7 @@ aae6732daf7d00742774f0936b29f19f1caeceb4;2012-03-01T22:47:23+0200;release-log.tx
 95f90be58bf140c97f58dea2372347d4629f6cc8;2012-03-01T21:43:43+0200;client/src/main/java/org/apache/oozie/client/WorkflowJob.java;;;OOZIE-228;No changed lines, only additions
 95f90be58bf140c97f58dea2372347d4629f6cc8;2012-03-01T21:43:43+0200;client/src/main/java/org/apache/oozie/client/rest/JsonTags.java;15159e378dfdae35b3b5146ea284e33498af883c;2011-09-02T03:36:04+0300;OOZIE-228;
 95f90be58bf140c97f58dea2372347d4629f6cc8;2012-03-01T21:43:43+0200;client/src/main/java/org/apache/oozie/client/rest/JsonToBean.java;;;OOZIE-228;No changed lines, only additions
-95f90be58bf140c97f58dea2372347d4629f6cc8;2012-03-01T21:43:43+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;b898d0392297061251c82428316ab2d4897762ea;2011-09-02T03:31:41+0300;OOZIE-228;
+95f90be58bf140c97f58dea2372347d4629f6cc8;2012-03-01T21:43:43+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;d3af7de76ee2b80e4e70768a5bafd92ee67089d3;2011-09-02T03:41:52+0300;OOZIE-228;
 95f90be58bf140c97f58dea2372347d4629f6cc8;2012-03-01T21:43:43+0200;core/src/main/java/org/apache/oozie/client/rest/JsonBundleJob.java;;;OOZIE-228;No changed lines, only additions
 95f90be58bf140c97f58dea2372347d4629f6cc8;2012-03-01T21:43:43+0200;core/src/main/java/org/apache/oozie/client/rest/JsonCoordinatorJob.java;;;OOZIE-228;No changed lines, only additions
 95f90be58bf140c97f58dea2372347d4629f6cc8;2012-03-01T21:43:43+0200;core/src/main/java/org/apache/oozie/client/rest/JsonWorkflowJob.java;;;OOZIE-228;No changed lines, only additions
@@ -6009,7 +6009,7 @@ c6a9872cb49fb480deab907c224367a17094807b;2012-03-01T16:01:15+0200;release-log.tx
 7a62545e70c2528a59ec3b683200b1d72619f1c3;2012-02-16T01:35:25+0200;core/pom.xml;6ffd19588401fd1cc5e2917c8445f16553e51856;2012-02-11T01:39:19+0200;OOZIE-696;
 7a62545e70c2528a59ec3b683200b1d72619f1c3;2012-02-16T01:35:25+0200;release-log.txt;;;OOZIE-696;Ignored file type
 6ffd19588401fd1cc5e2917c8445f16553e51856;2012-02-11T01:39:19+0200;core/pom.xml;d9853a88fc4c7fb2ec666ae5a92dad6cf44d5312;2012-02-03T17:40:26+0200;OOZIE-691;
-6ffd19588401fd1cc5e2917c8445f16553e51856;2012-02-11T01:39:19+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-691;No changed lines, only additions
+6ffd19588401fd1cc5e2917c8445f16553e51856;2012-02-11T01:39:19+0200;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;d3af7de76ee2b80e4e70768a5bafd92ee67089d3;2011-09-02T03:41:52+0300;OOZIE-691;
 6ffd19588401fd1cc5e2917c8445f16553e51856;2012-02-11T01:39:19+0200;core/src/test/java/org/apache/oozie/action/hadoop/TestLauncher.java;;;OOZIE-691;No changed lines, only additions
 6ffd19588401fd1cc5e2917c8445f16553e51856;2012-02-11T01:39:19+0200;core/src/test/java/org/apache/oozie/action/hadoop/TestMapReduceActionError.java;9501311af7a50904c7eabee1fa1a9053c17234ac;2011-09-02T03:31:55+0300;OOZIE-691;
 6ffd19588401fd1cc5e2917c8445f16553e51856;2012-02-11T01:39:19+0200;core/src/test/java/org/apache/oozie/action/hadoop/TestMapReduceActionExecutor.java;e1f6037febef4d76033b7e56e3d19d59648ab942;2011-12-10T06:14:58+0200;OOZIE-691;
@@ -6267,7 +6267,7 @@ c0b1b86701810b6cacec86414607fceec091ead5;2011-10-12T05:23:28+0300;webapp/pom.xml
 65ce7ee1d8f648b539073f057c3da5e3cbcebed1;2011-10-08T01:52:35+0300;webapp/src/main/webapp/oozie-console.js;d3b519523fe5efb2bcfd505f8b4f7e67a8c5e1d8;2011-09-02T03:41:35+0300;OOZIE-41;
 e5a02a52508748d806e40873b77c65fbf19872d6;2011-10-07T03:16:57+0300;client/src/main/java/org/apache/oozie/cli/OozieCLI.java;9501311af7a50904c7eabee1fa1a9053c17234ac;2011-09-02T03:31:55+0300;OOZIE-572;
 e5a02a52508748d806e40873b77c65fbf19872d6;2011-10-07T03:16:57+0300;release-log.txt;;;OOZIE-572;Ignored file type
-6fc6461693818153fdffabadd10e4a8947307163;2011-10-06T23:37:53+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;;;OOZIE-568;No changed lines, only additions
+6fc6461693818153fdffabadd10e4a8947307163;2011-10-06T23:37:53+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;d3af7de76ee2b80e4e70768a5bafd92ee67089d3;2011-09-02T03:41:52+0300;OOZIE-568;
 6fc6461693818153fdffabadd10e4a8947307163;2011-10-06T23:37:53+0300;release-log.txt;;;OOZIE-568;Ignored file type
 2209133b7e255f5278311d4d2b9d63ab4391f629;2011-10-06T23:34:23+0300;docs/src/site/twiki/DG_Examples.twiki;;;OOZIE-39;No changed lines, only additions
 e224373d05b5454b791dc2f1fc5b2d3d42a0b398;2011-10-06T23:30:06+0300;core/src/main/resources/META-INF/persistence.xml;;;OOZIE-40;No changed lines, only additions
@@ -6320,7 +6320,7 @@ afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;client/src/mai
 afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;client/src/main/resources/oozie-workflow-0.3.xsd;;;OOZIE-10;No changed lines, only additions
 afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/ErrorCode.java;;;OOZIE-10;No changed lines, only additions
 afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/WorkflowActionBean.java;;;OOZIE-10;No changed lines, only additions
-afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;8367900baf07705ec24e45e31a43c268c312bf14;2011-09-02T03:31:31+0300;OOZIE-10;
+afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/action/hadoop/JavaActionExecutor.java;d3af7de76ee2b80e4e70768a5bafd92ee67089d3;2011-09-02T03:41:52+0300;OOZIE-10;
 afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/client/rest/JsonWorkflowAction.java;;;OOZIE-10;No changed lines, only additions
 afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/command/wf/ActionCheckXCommand.java;80b0a19373685d9f7273cc444a917daf2ae3f60d;2011-09-02T03:35:43+0300;OOZIE-10;
 afc36d2c011f5b77d7a2557f52dfdf2d0a0f7833;2011-09-02T03:41:57+0300;core/src/main/java/org/apache/oozie/command/wf/ActionEndXCommand.java;c9d99f6b46b2311a441e8be9634b63156d7a3ccb;2011-09-02T03:35:40+0300;OOZIE-10;
